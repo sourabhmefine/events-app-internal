@@ -1,0 +1,1620 @@
+0 verbose cli [
+0 verbose cli   '/usr/local/nvm/versions/node/v12.14.1/bin/node',
+0 verbose cli   '/usr/local/nvm/versions/node/v12.14.1/bin/npm',
+0 verbose cli   'install',
+0 verbose cli   '--ignore-scripts',
+0 verbose cli   '@types/body-parser@ts3.8',
+0 verbose cli   '@types/express@ts3.8',
+0 verbose cli   '@types/request@ts3.8',
+0 verbose cli   '@types/chai@ts3.8',
+0 verbose cli   '@types/mocha@ts3.8',
+0 verbose cli   '@types/supertest@ts3.8',
+0 verbose cli   '@types/accepts@ts3.8',
+0 verbose cli   '@types/archy@ts3.8',
+0 verbose cli   '@types/argparse@ts3.8',
+0 verbose cli   '@types/asn1@ts3.8',
+0 verbose cli   '@types/assert-plus@ts3.8',
+0 verbose cli   '@types/aws4@ts3.8',
+0 verbose cli   '@types/balanced-match@ts3.8',
+0 verbose cli   '@types/brace-expansion@ts3.8',
+0 verbose cli   '@types/braces@ts3.8',
+0 verbose cli   '@types/bytes@ts3.8',
+0 verbose cli   '@types/caniuse-lite@ts3.8',
+0 verbose cli   '@types/caseless@ts3.8',
+0 verbose cli   '@types/check-error@ts3.8',
+0 verbose cli   '@types/color-convert@ts3.8',
+0 verbose cli   '@types/color-name@ts3.8',
+0 verbose cli   '@types/combined-stream@ts3.8',
+0 verbose cli   '@types/commondir@ts3.8',
+0 verbose cli   '@types/component-emitter@ts3.8',
+0 verbose cli   '@types/concat-map@ts3.8',
+0 verbose cli   '@types/content-disposition@ts3.8',
+0 verbose cli   '@types/content-type@ts3.8',
+0 verbose cli   '@types/convert-source-map@ts3.8',
+0 verbose cli   '@types/cookie@ts3.8',
+0 verbose cli   '@types/cookie-signature@ts3.8',
+0 verbose cli   '@types/cookiejar@ts3.8',
+0 verbose cli   '@types/cross-spawn@ts3.8',
+0 verbose cli   '@types/dashdash@ts3.8',
+0 verbose cli   '@types/debug@ts3.8',
+0 verbose cli   '@types/deep-equal@ts3.8',
+0 verbose cli   '@types/define-properties@ts3.8',
+0 verbose cli   '@types/depd@ts3.8',
+0 verbose cli   '@types/destroy@ts3.8',
+0 verbose cli   '@types/diff@ts3.8',
+0 verbose cli   '@types/ee-first@ts3.8',
+0 verbose cli   '@types/encodeurl@ts3.8',
+0 verbose cli   '@types/escape-html@ts3.8',
+0 verbose cli   '@types/esprima@ts3.8',
+0 verbose cli   '@types/etag@ts3.8',
+0 verbose cli   '@types/extend@ts3.8',
+0 verbose cli   '@types/extsprintf@ts3.8',
+0 verbose cli   '@types/fill-range@ts3.8',
+0 verbose cli   '@types/finalhandler@ts3.8',
+0 verbose cli   '@types/find-cache-dir@ts3.8',
+0 verbose cli   '@types/flat@ts3.8',
+0 verbose cli   '@types/forever-agent@ts3.8',
+0 verbose cli   '@types/formidable@ts3.8',
+0 verbose cli   '@types/forwarded@ts3.8',
+0 verbose cli   '@types/fresh@ts3.8',
+0 verbose cli   '@types/function-bind@ts3.8',
+0 verbose cli   '@types/get-func-name@ts3.8',
+0 verbose cli   '@types/getpass@ts3.8',
+0 verbose cli   '@types/glob@ts3.8',
+0 verbose cli   '@types/glob-parent@ts3.8',
+0 verbose cli   '@types/graceful-fs@ts3.8',
+0 verbose cli   '@types/has@ts3.8',
+0 verbose cli   '@types/he@ts3.8',
+0 verbose cli   '@types/html-escaper@ts3.8',
+0 verbose cli   '@types/http-errors@ts3.8',
+0 verbose cli   '@types/imurmurhash@ts3.8',
+0 verbose cli   '@types/inherits@ts3.8',
+0 verbose cli   '@types/is-arguments@ts3.8',
+0 verbose cli   '@types/is-date-object@ts3.8',
+0 verbose cli   '@types/is-glob@ts3.8',
+0 verbose cli   '@types/is-number@ts3.8',
+0 verbose cli   '@types/is-regex@ts3.8',
+0 verbose cli   '@types/is-typedarray@ts3.8',
+0 verbose cli   '@types/is-windows@ts3.8',
+0 verbose cli   '@types/isarray@ts3.8',
+0 verbose cli   '@types/isexe@ts3.8',
+0 verbose cli   '@types/isstream@ts3.8',
+0 verbose cli   '@types/istanbul-lib-coverage@ts3.8',
+0 verbose cli   '@types/istanbul-lib-hook@ts3.8',
+0 verbose cli   '@types/istanbul-lib-instrument@ts3.8',
+0 verbose cli   '@types/istanbul-lib-report@ts3.8',
+0 verbose cli   '@types/istanbul-lib-source-maps@ts3.8',
+0 verbose cli   '@types/istanbul-reports@ts3.8',
+0 verbose cli   '@types/js-yaml@ts3.8',
+0 verbose cli   '@types/jsbn@ts3.8',
+0 verbose cli   '@types/jsesc@ts3.8',
+0 verbose cli   '@types/json-schema@ts3.8',
+0 verbose cli   '@types/json-stringify-safe@ts3.8',
+0 verbose cli   '@types/lodash@ts3.8',
+0 verbose cli   '@types/lodash.flattendeep@ts3.8',
+0 verbose cli   '@types/media-typer@ts3.8',
+0 verbose cli   '@types/merge-descriptors@ts3.8',
+0 verbose cli   '@types/methods@ts3.8',
+0 verbose cli   '@types/mime@ts3.8',
+0 verbose cli   '@types/mime-db@ts3.8',
+0 verbose cli   '@types/mime-types@ts3.8',
+0 verbose cli   '@types/minimatch@ts3.8',
+0 verbose cli   ... 55 more items
+0 verbose cli ]
+1 info using npm@8.5.0
+2 info using node@v12.14.1
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/local/nvm/versions/node/v12.14.1/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 2ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 2ms
+9 timing config:load:file:/home/user301/.cache/typescript/3.8/.npmrc Completed in 1ms
+10 timing config:load:project Completed in 2ms
+11 timing config:load:file:/home/user301/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/usr/local/nvm/versions/node/v12.14.1/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:validate Completed in 2ms
+16 timing config:load:credentials Completed in 2ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 16ms
+19 timing npm:load:configload Completed in 16ms
+20 timing npm:load:setTitle Completed in 10ms
+21 timing config:load:flatten Completed in 2ms
+22 timing npm:load:display Completed in 3ms
+23 verbose logfile /home/user301/.npm/_logs/2022-03-08T04_13_29_357Z-debug-0.log
+24 timing npm:load:logFile Completed in 5ms
+25 timing npm:load:timers Completed in 0ms
+26 timing npm:load:configScope Completed in 0ms
+27 timing npm:load Completed in 35ms
+28 timing arborist:ctor Completed in 2ms
+29 timing idealTree:init Completed in 11ms
+30 timing arborist:ctor Completed in 0ms
+31 http fetch GET 200 https://registry.yarnpkg.com/@types%2fbraces 331ms (cache miss)
+32 http fetch GET 200 https://registry.yarnpkg.com/@types%2fchai 336ms (cache miss)
+33 http fetch GET 200 https://registry.yarnpkg.com/@types%2fmocha 340ms (cache miss)
+34 http fetch GET 200 https://registry.yarnpkg.com/@types%2frequest 346ms (cache miss)
+35 http fetch GET 200 https://registry.yarnpkg.com/@types%2fbrace-expansion 345ms (cache miss)
+36 http fetch GET 200 https://registry.yarnpkg.com/@types%2fargparse 347ms (cache miss)
+37 http fetch GET 200 https://registry.yarnpkg.com/@types%2fasn1 350ms (cache miss)
+38 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcaniuse-lite 350ms (cache miss)
+39 http fetch GET 200 https://registry.yarnpkg.com/@types%2fsupertest 354ms (cache miss)
+40 http fetch GET 200 https://registry.yarnpkg.com/@types%2faccepts 358ms (cache miss)
+41 http fetch GET 200 https://registry.yarnpkg.com/@types%2faws4 358ms (cache miss)
+42 http fetch GET 200 https://registry.yarnpkg.com/@types%2fbalanced-match 364ms (cache miss)
+43 http fetch GET 200 https://registry.yarnpkg.com/@types%2fbytes 364ms (cache miss)
+44 http fetch GET 200 https://registry.yarnpkg.com/@types%2fexpress 367ms (cache miss)
+45 http fetch GET 200 https://registry.yarnpkg.com/@types%2fbody-parser 370ms (cache miss)
+46 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcommondir 369ms (cache miss)
+47 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcolor-convert 376ms (cache miss)
+48 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcaseless 383ms (cache miss)
+49 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcomponent-emitter 383ms (cache miss)
+50 http fetch GET 200 https://registry.yarnpkg.com/@types%2fconvert-source-map 392ms (cache miss)
+51 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcontent-type 396ms (cache miss)
+52 http fetch GET 200 https://registry.yarnpkg.com/@types%2fconcat-map 399ms (cache miss)
+53 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcontent-disposition 401ms (cache miss)
+54 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcookie-signature 403ms (cache miss)
+55 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcross-spawn 404ms (cache miss)
+56 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcookiejar 407ms (cache miss)
+57 http fetch GET 200 https://registry.yarnpkg.com/@types%2fdebug 408ms (cache miss)
+58 http fetch GET 200 https://registry.yarnpkg.com/@types%2fdeep-equal 411ms (cache miss)
+59 http fetch GET 200 https://registry.yarnpkg.com/@types%2fdefine-properties 413ms (cache miss)
+60 http fetch GET 200 https://registry.yarnpkg.com/@types%2fdestroy 417ms (cache miss)
+61 http fetch GET 200 https://registry.yarnpkg.com/@types%2fee-first 418ms (cache miss)
+62 http fetch GET 200 https://registry.yarnpkg.com/@types%2fescape-html 419ms (cache miss)
+63 http fetch GET 200 https://registry.yarnpkg.com/@types%2fesprima 420ms (cache miss)
+64 http fetch GET 200 https://registry.yarnpkg.com/@types%2fencodeurl 421ms (cache miss)
+65 http fetch GET 200 https://registry.yarnpkg.com/@types%2fetag 422ms (cache miss)
+66 http fetch GET 200 https://registry.yarnpkg.com/@types%2ffinalhandler 424ms (cache miss)
+67 http fetch GET 200 https://registry.yarnpkg.com/@types%2ffill-range 428ms (cache miss)
+68 http fetch GET 200 https://registry.yarnpkg.com/@types%2fflat 428ms (cache miss)
+69 http fetch GET 200 https://registry.yarnpkg.com/@types%2ffind-cache-dir 433ms (cache miss)
+70 http fetch GET 200 https://registry.yarnpkg.com/@types%2fforever-agent 461ms (cache miss)
+71 http fetch GET 200 https://registry.yarnpkg.com/@types%2ffresh 463ms (cache miss)
+72 http fetch GET 200 https://registry.yarnpkg.com/@types%2fformidable 464ms (cache miss)
+73 http fetch GET 200 https://registry.yarnpkg.com/@types%2fforwarded 466ms (cache miss)
+74 http fetch GET 200 https://registry.yarnpkg.com/@types%2ffunction-bind 468ms (cache miss)
+75 http fetch GET 200 https://registry.yarnpkg.com/@types%2fgetpass 493ms (cache miss)
+76 http fetch GET 200 https://registry.yarnpkg.com/@types%2fglob 493ms (cache miss)
+77 http fetch GET 200 https://registry.yarnpkg.com/@types%2fglob-parent 495ms (cache miss)
+78 http fetch GET 200 https://registry.yarnpkg.com/@types%2fgraceful-fs 514ms (cache miss)
+79 http fetch GET 200 https://registry.yarnpkg.com/@types%2fhe 521ms (cache miss)
+80 http fetch GET 200 https://registry.yarnpkg.com/@types%2fhtml-escaper 540ms (cache miss)
+81 http fetch GET 200 https://registry.yarnpkg.com/@types%2fhttp-errors 552ms (cache miss)
+82 http fetch GET 200 https://registry.yarnpkg.com/@types%2finherits 589ms (cache miss)
+83 http fetch GET 200 https://registry.yarnpkg.com/@types%2fis-arguments 618ms (cache miss)
+84 http fetch GET 200 https://registry.yarnpkg.com/@types%2fis-date-object 647ms (cache miss)
+85 http fetch GET 200 https://registry.yarnpkg.com/@types%2fis-glob 677ms (cache miss)
+86 http fetch GET 200 https://registry.yarnpkg.com/@types%2fis-number 708ms (cache miss)
+87 http fetch GET 200 https://registry.yarnpkg.com/@types%2fis-regex 762ms (cache miss)
+88 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcolor-name 1877ms (cache miss)
+89 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcheck-error 1887ms (cache miss)
+90 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcookie 1921ms (cache miss)
+91 http fetch GET 200 https://registry.yarnpkg.com/@types%2farchy 1926ms (cache miss)
+92 http fetch GET 200 https://registry.yarnpkg.com/@types%2fisarray 1917ms (cache miss)
+93 http fetch GET 200 https://registry.yarnpkg.com/@types%2fdashdash 1924ms (cache miss)
+94 http fetch GET 200 https://registry.yarnpkg.com/@types%2fassert-plus 1939ms (cache miss)
+95 http fetch GET 200 https://registry.yarnpkg.com/@types%2fisexe 1944ms (cache miss)
+96 http fetch GET 200 https://registry.yarnpkg.com/@types%2fistanbul-lib-coverage 1945ms (cache miss)
+97 http fetch GET 200 https://registry.yarnpkg.com/@types%2fisstream 1946ms (cache miss)
+98 http fetch GET 200 https://registry.yarnpkg.com/@types%2fistanbul-lib-hook 1947ms (cache miss)
+99 http fetch GET 200 https://registry.yarnpkg.com/@types%2fdepd 1969ms (cache miss)
+100 http fetch GET 200 https://registry.yarnpkg.com/@types%2fcombined-stream 1972ms (cache miss)
+101 http fetch GET 200 https://registry.yarnpkg.com/@types%2fistanbul-lib-report 1972ms (cache miss)
+102 http fetch GET 200 https://registry.yarnpkg.com/@types%2fistanbul-lib-source-maps 1976ms (cache miss)
+103 http fetch GET 200 https://registry.yarnpkg.com/@types%2fjs-yaml 1977ms (cache miss)
+104 http fetch GET 200 https://registry.yarnpkg.com/@types%2fistanbul-reports 1988ms (cache miss)
+105 http fetch GET 200 https://registry.yarnpkg.com/@types%2fjsesc 1989ms (cache miss)
+106 http fetch GET 200 https://registry.yarnpkg.com/@types%2fjson-schema 1990ms (cache miss)
+107 http fetch GET 200 https://registry.yarnpkg.com/@types%2fjsbn 1991ms (cache miss)
+108 http fetch GET 200 https://registry.yarnpkg.com/@types%2fextsprintf 2003ms (cache miss)
+109 http fetch GET 200 https://registry.yarnpkg.com/@types%2flodash 2014ms (cache miss)
+110 http fetch GET 200 https://registry.yarnpkg.com/@types%2fmedia-typer 2016ms (cache miss)
+111 http fetch GET 200 https://registry.yarnpkg.com/@types%2fmethods 2021ms (cache miss)
+112 http fetch GET 200 https://registry.yarnpkg.com/@types%2fjson-stringify-safe 2023ms (cache miss)
+113 http fetch GET 200 https://registry.yarnpkg.com/@types%2fmerge-descriptors 2025ms (cache miss)
+114 http fetch GET 200 https://registry.yarnpkg.com/@types%2fmime 2026ms (cache miss)
+115 http fetch GET 200 https://registry.yarnpkg.com/@types%2fmime-db 2033ms (cache miss)
+116 http fetch GET 200 https://registry.yarnpkg.com/@types%2fextend 2040ms (cache miss)
+117 http fetch GET 200 https://registry.yarnpkg.com/@types%2fminimatch 2043ms (cache miss)
+118 http fetch GET 200 https://registry.yarnpkg.com/@types%2fms 2046ms (cache miss)
+119 http fetch GET 200 https://registry.yarnpkg.com/@types%2fmime-types 2052ms (cache miss)
+120 http fetch GET 200 https://registry.yarnpkg.com/@types%2fdiff 2064ms (cache miss)
+121 http fetch GET 200 https://registry.yarnpkg.com/@types%2fminimist 2057ms (cache miss)
+122 http fetch GET 200 https://registry.yarnpkg.com/@types%2fnormalize-path 2059ms (cache miss)
+123 http fetch GET 200 https://registry.yarnpkg.com/@types%2fobject-keys 2070ms (cache miss)
+124 http fetch GET 200 https://registry.yarnpkg.com/@types%2fparseurl 2082ms (cache miss)
+125 http fetch GET 200 https://registry.yarnpkg.com/@types%2fpathval 2084ms (cache miss)
+126 http fetch GET 200 https://registry.yarnpkg.com/@types%2fget-func-name 2092ms (cache miss)
+127 http fetch GET 200 https://registry.yarnpkg.com/@types%2fonce 2086ms (cache miss)
+128 http fetch GET 200 https://registry.yarnpkg.com/@types%2fpath-is-absolute 2092ms (cache miss)
+129 http fetch GET 200 https://registry.yarnpkg.com/@types%2fpunycode 2104ms (cache miss)
+130 http fetch GET 200 https://registry.yarnpkg.com/@types%2fpsl 2124ms (cache miss)
+131 http fetch GET 200 https://registry.yarnpkg.com/@types%2fqs 2140ms (cache miss)
+132 http fetch GET 200 https://registry.yarnpkg.com/@types%2frange-parser 2149ms (cache miss)
+133 http fetch GET 200 https://registry.yarnpkg.com/@types%2freadable-stream 2158ms (cache miss)
+134 http fetch GET 200 https://registry.yarnpkg.com/@types%2frequire-directory 2162ms (cache miss)
+135 http fetch GET 200 https://registry.yarnpkg.com/@types%2fhas 2172ms (cache miss)
+136 http fetch GET 200 https://registry.yarnpkg.com/@types%2frimraf 2167ms (cache miss)
+137 http fetch GET 200 https://registry.yarnpkg.com/@types%2fsemver 2172ms (cache miss)
+138 http fetch GET 200 https://registry.yarnpkg.com/@types%2fsafer-buffer 2177ms (cache miss)
+139 http fetch GET 200 https://registry.yarnpkg.com/@types%2fserve-static 2199ms (cache miss)
+140 http fetch GET 200 https://registry.yarnpkg.com/@types%2fserialize-javascript 2201ms (cache miss)
+141 http fetch GET 200 https://registry.yarnpkg.com/@types%2fshebang-command 2207ms (cache miss)
+142 http fetch GET 200 https://registry.yarnpkg.com/@types%2fsprintf 2220ms (cache miss)
+143 http fetch GET 200 https://registry.yarnpkg.com/@types%2fsprintf-js 2233ms (cache miss)
+144 http fetch GET 200 https://registry.yarnpkg.com/@types%2fsignal-exit 2234ms (cache miss)
+145 http fetch GET 200 https://registry.yarnpkg.com/@types%2fsshpk 2242ms (cache miss)
+146 http fetch GET 200 https://registry.yarnpkg.com/@types%2fimurmurhash 2267ms (cache miss)
+147 http fetch GET 200 https://registry.yarnpkg.com/@types%2fsupports-color 2274ms (cache miss)
+148 http fetch GET 200 https://registry.yarnpkg.com/@types%2fsuperagent 2276ms (cache miss)
+149 http fetch GET 200 https://registry.yarnpkg.com/@types%2fstatuses 2289ms (cache miss)
+150 http fetch GET 200 https://registry.yarnpkg.com/@types%2ftough-cookie 2297ms (cache miss)
+151 http fetch GET 200 https://registry.yarnpkg.com/@types%2ftype-detect 2305ms (cache miss)
+152 http fetch GET 200 https://registry.yarnpkg.com/@types%2fuglify-js 2327ms (cache miss)
+153 http fetch GET 200 https://registry.yarnpkg.com/@types%2ftype-is 2328ms (cache miss)
+154 http fetch GET 200 https://registry.yarnpkg.com/@types%2futil-deprecate 2353ms (cache miss)
+155 http fetch GET 200 https://registry.yarnpkg.com/@types%2fuuid 2358ms (cache miss)
+156 http fetch GET 200 https://registry.yarnpkg.com/@types%2futils-merge 2361ms (cache miss)
+157 http fetch GET 200 https://registry.yarnpkg.com/@types%2fvary 2398ms (cache miss)
+158 http fetch GET 200 https://registry.yarnpkg.com/@types%2fverror 2398ms (cache miss)
+159 http fetch GET 200 https://registry.yarnpkg.com/@types%2fwhich 2400ms (cache miss)
+160 http fetch GET 200 https://registry.yarnpkg.com/@types%2fworkerpool 2438ms (cache miss)
+161 http fetch GET 200 https://registry.yarnpkg.com/@types%2fwrite-file-atomic 2462ms (cache miss)
+162 http fetch GET 200 https://registry.yarnpkg.com/@types%2fyargs 2487ms (cache miss)
+163 http fetch GET 200 https://registry.yarnpkg.com/@types%2fis-typedarray 2511ms (cache miss)
+164 http fetch GET 200 https://registry.yarnpkg.com/@types%2fyargs-parser 2534ms (cache miss)
+165 http fetch GET 200 https://registry.yarnpkg.com/@types%2fnode 2598ms (cache miss)
+166 http fetch GET 200 https://registry.yarnpkg.com/@types%2fon-finished 3127ms (cache miss)
+167 http fetch GET 200 https://registry.yarnpkg.com/@types%2fis-windows 3523ms (cache miss)
+168 http fetch GET 200 https://registry.yarnpkg.com/@types%2fistanbul-lib-instrument 3616ms (cache miss)
+169 http fetch GET 200 https://registry.yarnpkg.com/@types%2fnegotiator 3673ms (cache miss)
+170 http fetch GET 200 https://registry.yarnpkg.com/@types%2fmkdirp 3692ms (cache miss)
+171 http fetch GET 200 https://registry.yarnpkg.com/@types%2flodash.flattendeep 3720ms (cache miss)
+172 http fetch GET 200 https://registry.yarnpkg.com/@types%2fpicomatch 3721ms (cache miss)
+173 http fetch GET 200 https://registry.yarnpkg.com/@types%2fproxy-addr 3721ms (cache miss)
+174 http fetch GET 200 https://registry.yarnpkg.com/@types%2fsend 3768ms (cache miss)
+175 http fetch GET 200 https://registry.yarnpkg.com/@types%2frandombytes 3770ms (cache miss)
+176 http fetch GET 200 https://registry.yarnpkg.com/@types%2fto-regex-range 3970ms (cache miss)
+177 http fetch GET 200 https://registry.yarnpkg.com/@types%2fwrap-ansi 4008ms (cache miss)
+178 http fetch GET 200 https://registry.yarnpkg.com/@types%2fwordwrap 4046ms (cache miss)
+179 http fetch GET 200 https://registry.yarnpkg.com/@types%2fyargs-unparser 4213ms (cache miss)
+180 timing idealTree:userRequests Completed in 4241ms
+181 silly idealTree buildDeps
+182 silly fetch manifest @types/body-parser@1.19.2
+183 silly fetch manifest @types/express@4.17.13
+184 silly fetch manifest @types/request@2.48.8
+185 silly fetch manifest @types/chai@4.3.0
+186 silly fetch manifest @types/mocha@9.1.0
+187 silly fetch manifest @types/supertest@2.0.11
+188 silly fetch manifest @types/accepts@1.3.5
+189 silly fetch manifest @types/archy@0.0.32
+190 silly fetch manifest @types/argparse@1.0.38
+191 silly fetch manifest @types/asn1@0.2.0
+192 silly fetch manifest @types/assert-plus@1.0.4
+193 silly fetch manifest @types/aws4@1.5.2
+194 silly fetch manifest @types/balanced-match@1.0.2
+195 silly fetch manifest @types/brace-expansion@1.1.0
+196 silly fetch manifest @types/braces@3.0.1
+197 silly fetch manifest @types/bytes@3.1.1
+198 silly fetch manifest @types/caniuse-lite@1.0.1
+199 silly fetch manifest @types/caseless@0.12.2
+200 silly fetch manifest @types/check-error@1.0.0
+201 silly fetch manifest @types/color-convert@2.0.0
+202 silly fetch manifest @types/color-name@1.1.1
+203 silly fetch manifest @types/combined-stream@1.0.3
+204 silly fetch manifest @types/commondir@1.0.0
+205 silly fetch manifest @types/component-emitter@1.2.11
+206 silly fetch manifest @types/concat-map@0.0.1
+207 silly fetch manifest @types/content-disposition@0.5.4
+208 silly fetch manifest @types/content-type@1.1.5
+209 silly fetch manifest @types/convert-source-map@1.5.2
+210 silly fetch manifest @types/cookie@0.4.1
+211 silly fetch manifest @types/cookie-signature@1.0.4
+212 silly fetch manifest @types/cookiejar@2.1.2
+213 silly fetch manifest @types/cross-spawn@6.0.2
+214 silly fetch manifest @types/dashdash@1.14.1
+215 silly fetch manifest @types/debug@4.1.7
+216 silly fetch manifest @types/deep-equal@1.0.1
+217 silly fetch manifest @types/define-properties@1.1.3
+218 silly fetch manifest @types/depd@1.1.32
+219 silly fetch manifest @types/destroy@1.0.0
+220 silly fetch manifest @types/diff@5.0.2
+221 silly fetch manifest @types/ee-first@1.1.0
+222 silly fetch manifest @types/encodeurl@1.0.0
+223 silly fetch manifest @types/escape-html@1.0.1
+224 silly fetch manifest @types/esprima@4.0.3
+225 silly fetch manifest @types/etag@1.8.1
+226 silly fetch manifest @types/extend@3.0.1
+227 silly fetch manifest @types/extsprintf@1.4.2
+228 silly fetch manifest @types/fill-range@7.0.0
+229 silly fetch manifest @types/finalhandler@1.1.1
+230 silly fetch manifest @types/find-cache-dir@3.2.1
+231 silly fetch manifest @types/flat@5.0.2
+232 silly fetch manifest @types/forever-agent@0.6.1
+233 silly fetch manifest @types/formidable@2.0.4
+234 silly fetch manifest @types/forwarded@0.1.0
+235 silly fetch manifest @types/fresh@0.5.0
+236 silly fetch manifest @types/function-bind@1.1.6
+237 silly fetch manifest @types/get-func-name@2.0.0
+238 silly fetch manifest @types/getpass@0.1.1
+239 silly fetch manifest @types/glob@7.2.0
+240 silly fetch manifest @types/glob-parent@5.1.1
+241 silly fetch manifest @types/graceful-fs@4.1.4
+242 silly fetch manifest @types/has@1.0.0
+243 silly fetch manifest @types/he@1.1.2
+244 silly fetch manifest @types/html-escaper@3.0.0
+245 silly fetch manifest @types/http-errors@1.8.2
+246 silly fetch manifest @types/imurmurhash@0.1.1
+247 silly fetch manifest @types/inherits@0.0.30
+248 silly fetch manifest @types/is-arguments@1.0.0
+249 silly fetch manifest @types/is-date-object@1.0.2
+250 silly fetch manifest @types/is-glob@4.0.2
+251 silly fetch manifest @types/is-number@7.0.2
+252 silly fetch manifest @types/is-regex@1.0.0
+253 silly fetch manifest @types/is-typedarray@1.0.0
+254 silly fetch manifest @types/is-windows@1.0.0
+255 silly fetch manifest @types/isarray@2.0.0
+256 silly fetch manifest @types/isexe@2.0.1
+257 silly fetch manifest @types/isstream@0.1.0
+258 silly fetch manifest @types/istanbul-lib-coverage@2.0.4
+259 silly fetch manifest @types/istanbul-lib-hook@2.0.1
+260 silly fetch manifest @types/istanbul-lib-instrument@1.7.4
+261 silly fetch manifest @types/istanbul-lib-report@3.0.0
+262 silly fetch manifest @types/istanbul-lib-source-maps@4.0.1
+263 silly fetch manifest @types/istanbul-reports@3.0.1
+264 silly fetch manifest @types/js-yaml@4.0.5
+265 silly fetch manifest @types/jsbn@1.2.30
+266 silly fetch manifest @types/jsesc@3.0.1
+267 silly fetch manifest @types/json-schema@7.0.9
+268 silly fetch manifest @types/json-stringify-safe@5.0.0
+269 silly fetch manifest @types/lodash@4.14.179
+270 silly fetch manifest @types/lodash.flattendeep@4.4.6
+271 silly fetch manifest @types/media-typer@1.1.1
+272 silly fetch manifest @types/merge-descriptors@1.0.1
+273 silly fetch manifest @types/methods@1.1.1
+274 silly fetch manifest @types/mime@2.0.3
+275 silly fetch manifest @types/mime-db@1.43.1
+276 silly fetch manifest @types/mime-types@2.1.1
+277 silly fetch manifest @types/minimatch@3.0.5
+278 silly fetch manifest @types/minimist@1.2.2
+279 silly fetch manifest @types/mkdirp@1.0.2
+280 silly fetch manifest @types/ms@0.7.31
+281 silly fetch manifest @types/negotiator@0.6.1
+282 silly fetch manifest @types/normalize-path@3.0.0
+283 silly fetch manifest @types/object-keys@1.0.1
+284 silly fetch manifest @types/on-finished@2.3.1
+285 silly fetch manifest @types/once@1.4.0
+286 silly fetch manifest @types/parseurl@1.3.1
+287 silly fetch manifest @types/path-is-absolute@1.0.0
+288 silly fetch manifest @types/pathval@1.1.0
+289 silly fetch manifest @types/picomatch@2.3.0
+290 silly fetch manifest @types/proxy-addr@2.0.0
+291 silly fetch manifest @types/psl@1.1.0
+292 silly fetch manifest @types/punycode@2.1.0
+293 silly fetch manifest @types/qs@6.9.7
+294 silly fetch manifest @types/randombytes@2.0.0
+295 silly fetch manifest @types/range-parser@1.2.4
+296 silly fetch manifest @types/readable-stream@2.3.13
+297 silly fetch manifest @types/require-directory@2.1.2
+298 silly fetch manifest @types/rimraf@3.0.2
+299 silly fetch manifest @types/safer-buffer@2.1.0
+300 silly fetch manifest @types/semver@7.3.9
+301 silly fetch manifest @types/send@0.17.1
+302 silly fetch manifest @types/serialize-javascript@5.0.2
+303 silly fetch manifest @types/serve-static@1.13.10
+304 silly fetch manifest @types/shebang-command@1.2.0
+305 silly fetch manifest @types/signal-exit@3.0.1
+306 silly fetch manifest @types/sprintf@0.1.0
+307 silly fetch manifest @types/sprintf-js@1.1.2
+308 silly fetch manifest @types/sshpk@1.17.0
+309 silly fetch manifest @types/statuses@2.0.0
+310 silly fetch manifest @types/superagent@4.1.15
+311 silly fetch manifest @types/supports-color@8.1.1
+312 silly fetch manifest @types/to-regex-range@5.0.0
+313 silly fetch manifest @types/tough-cookie@4.0.1
+314 silly fetch manifest @types/type-detect@4.0.1
+315 silly fetch manifest @types/type-is@1.6.3
+316 silly fetch manifest @types/uglify-js@3.13.1
+317 silly fetch manifest @types/util-deprecate@1.0.0
+318 silly fetch manifest @types/utils-merge@0.0.28
+319 silly fetch manifest @types/uuid@8.3.4
+320 silly fetch manifest @types/vary@1.1.0
+321 silly fetch manifest @types/verror@1.10.5
+322 silly fetch manifest @types/which@2.0.1
+323 silly fetch manifest @types/wordwrap@1.0.1
+324 silly fetch manifest @types/workerpool@6.1.0
+325 silly fetch manifest @types/wrap-ansi@8.0.1
+326 silly fetch manifest @types/write-file-atomic@4.0.0
+327 silly fetch manifest @types/yargs@17.0.8
+328 silly fetch manifest @types/yargs-parser@20.2.1
+329 silly fetch manifest @types/yargs-unparser@2.0.1
+330 silly fetch manifest @types/node@17.0.21
+331 silly placeDep ROOT @types/accepts@1.3.5 OK for:  want: 1.3.5
+332 silly placeDep ROOT @types/archy@0.0.32 OK for:  want: 0.0.32
+333 silly placeDep ROOT @types/argparse@1.0.38 OK for:  want: 1.0.38
+334 silly placeDep ROOT @types/asn1@0.2.0 OK for:  want: 0.2.0
+335 silly placeDep ROOT @types/assert-plus@1.0.4 OK for:  want: 1.0.4
+336 silly placeDep ROOT @types/aws4@1.5.2 OK for:  want: 1.5.2
+337 silly placeDep ROOT @types/balanced-match@1.0.2 OK for:  want: 1.0.2
+338 silly placeDep ROOT @types/body-parser@1.19.2 OK for:  want: 1.19.2
+339 silly placeDep ROOT @types/brace-expansion@1.1.0 OK for:  want: 1.1.0
+340 silly placeDep ROOT @types/braces@3.0.1 OK for:  want: 3.0.1
+341 silly placeDep ROOT @types/bytes@3.1.1 OK for:  want: 3.1.1
+342 silly placeDep ROOT @types/caniuse-lite@1.0.1 OK for:  want: 1.0.1
+343 silly placeDep ROOT @types/caseless@0.12.2 OK for:  want: 0.12.2
+344 silly placeDep ROOT @types/chai@4.3.0 OK for:  want: 4.3.0
+345 silly placeDep ROOT @types/check-error@1.0.0 OK for:  want: 1.0.0
+346 silly placeDep ROOT @types/color-convert@2.0.0 OK for:  want: 2.0.0
+347 silly placeDep ROOT @types/color-name@1.1.1 OK for:  want: 1.1.1
+348 silly placeDep ROOT @types/combined-stream@1.0.3 OK for:  want: 1.0.3
+349 silly placeDep ROOT @types/commondir@1.0.0 OK for:  want: 1.0.0
+350 silly placeDep ROOT @types/component-emitter@1.2.11 OK for:  want: 1.2.11
+351 silly placeDep ROOT @types/concat-map@0.0.1 OK for:  want: 0.0.1
+352 silly placeDep ROOT @types/content-disposition@0.5.4 OK for:  want: 0.5.4
+353 silly placeDep ROOT @types/content-type@1.1.5 OK for:  want: 1.1.5
+354 silly placeDep ROOT @types/convert-source-map@1.5.2 OK for:  want: 1.5.2
+355 silly placeDep ROOT @types/cookie@0.4.1 OK for:  want: 0.4.1
+356 silly placeDep ROOT @types/cookie-signature@1.0.4 OK for:  want: 1.0.4
+357 silly placeDep ROOT @types/cookiejar@2.1.2 OK for:  want: 2.1.2
+358 silly placeDep ROOT @types/cross-spawn@6.0.2 OK for:  want: 6.0.2
+359 silly placeDep ROOT @types/dashdash@1.14.1 OK for:  want: 1.14.1
+360 silly placeDep ROOT @types/debug@4.1.7 OK for:  want: 4.1.7
+361 silly placeDep ROOT @types/deep-equal@1.0.1 OK for:  want: 1.0.1
+362 silly placeDep ROOT @types/define-properties@1.1.3 OK for:  want: 1.1.3
+363 silly placeDep ROOT @types/depd@1.1.32 OK for:  want: 1.1.32
+364 silly placeDep ROOT @types/destroy@1.0.0 OK for:  want: 1.0.0
+365 silly placeDep ROOT @types/diff@5.0.2 OK for:  want: 5.0.2
+366 silly placeDep ROOT @types/ee-first@1.1.0 OK for:  want: 1.1.0
+367 silly placeDep ROOT @types/encodeurl@1.0.0 OK for:  want: 1.0.0
+368 silly placeDep ROOT @types/escape-html@1.0.1 OK for:  want: 1.0.1
+369 silly placeDep ROOT @types/esprima@4.0.3 OK for:  want: 4.0.3
+370 silly placeDep ROOT @types/etag@1.8.1 OK for:  want: 1.8.1
+371 silly placeDep ROOT @types/express@4.17.13 OK for:  want: 4.17.13
+372 silly placeDep ROOT @types/extend@3.0.1 OK for:  want: 3.0.1
+373 silly placeDep ROOT @types/extsprintf@1.4.2 OK for:  want: 1.4.2
+374 silly placeDep ROOT @types/fill-range@7.0.0 OK for:  want: 7.0.0
+375 silly placeDep ROOT @types/finalhandler@1.1.1 OK for:  want: 1.1.1
+376 silly placeDep ROOT @types/find-cache-dir@3.2.1 OK for:  want: 3.2.1
+377 silly placeDep ROOT @types/flat@5.0.2 OK for:  want: 5.0.2
+378 silly placeDep ROOT @types/forever-agent@0.6.1 OK for:  want: 0.6.1
+379 silly placeDep ROOT @types/formidable@2.0.4 OK for:  want: 2.0.4
+380 silly placeDep ROOT @types/forwarded@0.1.0 OK for:  want: 0.1.0
+381 silly placeDep ROOT @types/fresh@0.5.0 OK for:  want: 0.5.0
+382 silly placeDep ROOT @types/function-bind@1.1.6 OK for:  want: 1.1.6
+383 silly placeDep ROOT @types/get-func-name@2.0.0 OK for:  want: 2.0.0
+384 silly placeDep ROOT @types/getpass@0.1.1 OK for:  want: 0.1.1
+385 silly placeDep ROOT @types/glob@7.2.0 OK for:  want: 7.2.0
+386 silly placeDep ROOT @types/glob-parent@5.1.1 OK for:  want: 5.1.1
+387 silly placeDep ROOT @types/graceful-fs@4.1.4 OK for:  want: 4.1.4
+388 silly placeDep ROOT @types/has@1.0.0 OK for:  want: 1.0.0
+389 silly placeDep ROOT @types/he@1.1.2 OK for:  want: 1.1.2
+390 silly placeDep ROOT @types/html-escaper@3.0.0 OK for:  want: 3.0.0
+391 silly placeDep ROOT @types/http-errors@1.8.2 OK for:  want: 1.8.2
+392 silly placeDep ROOT @types/imurmurhash@0.1.1 OK for:  want: 0.1.1
+393 silly placeDep ROOT @types/inherits@0.0.30 OK for:  want: 0.0.30
+394 silly placeDep ROOT @types/is-arguments@1.0.0 OK for:  want: 1.0.0
+395 silly placeDep ROOT @types/is-date-object@1.0.2 OK for:  want: 1.0.2
+396 silly placeDep ROOT @types/is-glob@4.0.2 OK for:  want: 4.0.2
+397 silly placeDep ROOT @types/is-number@7.0.2 OK for:  want: 7.0.2
+398 silly placeDep ROOT @types/is-regex@1.0.0 OK for:  want: 1.0.0
+399 silly placeDep ROOT @types/is-typedarray@1.0.0 OK for:  want: 1.0.0
+400 silly placeDep ROOT @types/is-windows@1.0.0 OK for:  want: 1.0.0
+401 silly placeDep ROOT @types/isarray@2.0.0 OK for:  want: 2.0.0
+402 silly placeDep ROOT @types/isexe@2.0.1 OK for:  want: 2.0.1
+403 silly placeDep ROOT @types/isstream@0.1.0 OK for:  want: 0.1.0
+404 silly placeDep ROOT @types/istanbul-lib-coverage@2.0.4 OK for:  want: 2.0.4
+405 silly placeDep ROOT @types/istanbul-lib-hook@2.0.1 OK for:  want: 2.0.1
+406 silly placeDep ROOT @types/istanbul-lib-instrument@1.7.4 OK for:  want: 1.7.4
+407 silly placeDep ROOT @types/istanbul-lib-report@3.0.0 OK for:  want: 3.0.0
+408 silly placeDep ROOT @types/istanbul-lib-source-maps@4.0.1 OK for:  want: 4.0.1
+409 silly placeDep ROOT @types/istanbul-reports@3.0.1 OK for:  want: 3.0.1
+410 silly placeDep ROOT @types/js-yaml@4.0.5 OK for:  want: 4.0.5
+411 silly placeDep ROOT @types/jsbn@1.2.30 OK for:  want: 1.2.30
+412 silly placeDep ROOT @types/jsesc@3.0.1 OK for:  want: 3.0.1
+413 silly placeDep ROOT @types/json-schema@7.0.9 OK for:  want: 7.0.9
+414 silly placeDep ROOT @types/json-stringify-safe@5.0.0 OK for:  want: 5.0.0
+415 silly placeDep ROOT @types/lodash@4.14.179 OK for:  want: 4.14.179
+416 silly placeDep ROOT @types/lodash.flattendeep@4.4.6 OK for:  want: 4.4.6
+417 silly placeDep ROOT @types/media-typer@1.1.1 OK for:  want: 1.1.1
+418 silly placeDep ROOT @types/merge-descriptors@1.0.1 OK for:  want: 1.0.1
+419 silly placeDep ROOT @types/methods@1.1.1 OK for:  want: 1.1.1
+420 silly placeDep ROOT @types/mime@2.0.3 OK for:  want: 2.0.3
+421 silly placeDep ROOT @types/mime-db@1.43.1 OK for:  want: 1.43.1
+422 silly placeDep ROOT @types/mime-types@2.1.1 OK for:  want: 2.1.1
+423 silly placeDep ROOT @types/minimatch@3.0.5 OK for:  want: 3.0.5
+424 silly placeDep ROOT @types/minimist@1.2.2 OK for:  want: 1.2.2
+425 silly placeDep ROOT @types/mkdirp@1.0.2 OK for:  want: 1.0.2
+426 silly placeDep ROOT @types/mocha@9.1.0 OK for:  want: 9.1.0
+427 silly placeDep ROOT @types/ms@0.7.31 OK for:  want: 0.7.31
+428 silly placeDep ROOT @types/negotiator@0.6.1 OK for:  want: 0.6.1
+429 silly placeDep ROOT @types/node@17.0.21 OK for:  want: 17.0.21
+430 silly placeDep ROOT @types/normalize-path@3.0.0 OK for:  want: 3.0.0
+431 silly placeDep ROOT @types/object-keys@1.0.1 OK for:  want: 1.0.1
+432 silly placeDep ROOT @types/on-finished@2.3.1 OK for:  want: 2.3.1
+433 silly placeDep ROOT @types/once@1.4.0 OK for:  want: 1.4.0
+434 silly placeDep ROOT @types/parseurl@1.3.1 OK for:  want: 1.3.1
+435 silly placeDep ROOT @types/path-is-absolute@1.0.0 OK for:  want: 1.0.0
+436 silly placeDep ROOT @types/pathval@1.1.0 OK for:  want: 1.1.0
+437 silly placeDep ROOT @types/picomatch@2.3.0 OK for:  want: 2.3.0
+438 silly placeDep ROOT @types/proxy-addr@2.0.0 OK for:  want: 2.0.0
+439 silly placeDep ROOT @types/psl@1.1.0 OK for:  want: 1.1.0
+440 silly placeDep ROOT @types/punycode@2.1.0 OK for:  want: 2.1.0
+441 silly placeDep ROOT @types/qs@6.9.7 OK for:  want: 6.9.7
+442 silly placeDep ROOT @types/randombytes@2.0.0 OK for:  want: 2.0.0
+443 silly placeDep ROOT @types/range-parser@1.2.4 OK for:  want: 1.2.4
+444 silly placeDep ROOT @types/readable-stream@2.3.13 OK for:  want: 2.3.13
+445 silly placeDep ROOT @types/request@2.48.8 OK for:  want: 2.48.8
+446 silly placeDep ROOT @types/require-directory@2.1.2 OK for:  want: 2.1.2
+447 silly placeDep ROOT @types/rimraf@3.0.2 OK for:  want: 3.0.2
+448 silly placeDep ROOT @types/safer-buffer@2.1.0 OK for:  want: 2.1.0
+449 silly placeDep ROOT @types/semver@7.3.9 OK for:  want: 7.3.9
+450 silly placeDep ROOT @types/send@0.17.1 OK for:  want: 0.17.1
+451 silly placeDep ROOT @types/serialize-javascript@5.0.2 OK for:  want: 5.0.2
+452 silly placeDep ROOT @types/serve-static@1.13.10 OK for:  want: 1.13.10
+453 silly placeDep ROOT @types/shebang-command@1.2.0 OK for:  want: 1.2.0
+454 silly placeDep ROOT @types/signal-exit@3.0.1 OK for:  want: 3.0.1
+455 silly placeDep ROOT @types/sprintf@0.1.0 OK for:  want: 0.1.0
+456 silly placeDep ROOT @types/sprintf-js@1.1.2 OK for:  want: 1.1.2
+457 silly placeDep ROOT @types/sshpk@1.17.0 OK for:  want: 1.17.0
+458 silly placeDep ROOT @types/statuses@2.0.0 OK for:  want: 2.0.0
+459 silly placeDep ROOT @types/superagent@4.1.15 OK for:  want: 4.1.15
+460 silly placeDep ROOT @types/supertest@2.0.11 OK for:  want: 2.0.11
+461 silly placeDep ROOT @types/supports-color@8.1.1 OK for:  want: 8.1.1
+462 silly placeDep ROOT @types/to-regex-range@5.0.0 OK for:  want: 5.0.0
+463 silly placeDep ROOT @types/tough-cookie@4.0.1 OK for:  want: 4.0.1
+464 silly placeDep ROOT @types/type-detect@4.0.1 OK for:  want: 4.0.1
+465 silly placeDep ROOT @types/type-is@1.6.3 OK for:  want: 1.6.3
+466 silly placeDep ROOT @types/uglify-js@3.13.1 OK for:  want: 3.13.1
+467 silly placeDep ROOT @types/util-deprecate@1.0.0 OK for:  want: 1.0.0
+468 silly placeDep ROOT @types/utils-merge@0.0.28 OK for:  want: 0.0.28
+469 silly placeDep ROOT @types/uuid@8.3.4 OK for:  want: 8.3.4
+470 silly placeDep ROOT @types/vary@1.1.0 OK for:  want: 1.1.0
+471 silly placeDep ROOT @types/verror@1.10.5 OK for:  want: 1.10.5
+472 silly placeDep ROOT @types/which@2.0.1 OK for:  want: 2.0.1
+473 silly placeDep ROOT @types/wordwrap@1.0.1 OK for:  want: 1.0.1
+474 silly placeDep ROOT @types/workerpool@6.1.0 OK for:  want: 6.1.0
+475 silly placeDep ROOT @types/wrap-ansi@8.0.1 OK for:  want: 8.0.1
+476 silly placeDep ROOT @types/write-file-atomic@4.0.0 OK for:  want: 4.0.0
+477 silly placeDep ROOT @types/yargs@17.0.8 OK for:  want: 17.0.8
+478 silly placeDep ROOT @types/yargs-parser@20.2.1 OK for:  want: 20.2.1
+479 silly placeDep ROOT @types/yargs-unparser@2.0.1 OK for:  want: 2.0.1
+480 silly fetch manifest @types/connect@*
+481 silly fetch manifest @types/estree@*
+482 silly fetch manifest @types/express-serve-static-core@^4.17.18
+483 silly fetch manifest @types/babel-types@*
+484 silly fetch manifest source-map@^0.6.1
+485 silly fetch manifest safe-buffer@*
+486 silly fetch manifest form-data@^2.5.0
+487 silly fetch manifest @types/mime@^1
+488 http fetch GET 200 https://registry.yarnpkg.com/@types%2fconnect 46ms (cache miss)
+489 http fetch GET 200 https://registry.yarnpkg.com/safe-buffer 47ms (cache miss)
+490 http fetch GET 200 https://registry.yarnpkg.com/source-map 58ms (cache miss)
+491 http fetch GET 200 https://registry.yarnpkg.com/@types%2fbabel-types 61ms (cache miss)
+492 http fetch GET 200 https://registry.yarnpkg.com/@types%2festree 65ms (cache miss)
+493 http fetch GET 200 https://registry.yarnpkg.com/@types%2fexpress-serve-static-core 81ms (cache miss)
+494 http fetch GET 200 https://registry.yarnpkg.com/form-data 938ms (cache miss)
+495 timing idealTree:#root Completed in 1269ms
+496 timing idealTree:node_modules/@types/accepts Completed in 0ms
+497 timing idealTree:node_modules/@types/archy Completed in 0ms
+498 timing idealTree:node_modules/@types/argparse Completed in 0ms
+499 timing idealTree:node_modules/@types/asn1 Completed in 0ms
+500 timing idealTree:node_modules/@types/assert-plus Completed in 0ms
+501 timing idealTree:node_modules/@types/aws4 Completed in 0ms
+502 timing idealTree:node_modules/@types/balanced-match Completed in 0ms
+503 silly placeDep ROOT @types/connect@3.4.35 OK for: @types/body-parser@1.19.2 want: *
+504 timing idealTree:node_modules/@types/body-parser Completed in 1ms
+505 timing idealTree:node_modules/@types/brace-expansion Completed in 0ms
+506 timing idealTree:node_modules/@types/braces Completed in 0ms
+507 timing idealTree:node_modules/@types/bytes Completed in 0ms
+508 timing idealTree:node_modules/@types/caniuse-lite Completed in 0ms
+509 timing idealTree:node_modules/@types/caseless Completed in 0ms
+510 timing idealTree:node_modules/@types/chai Completed in 0ms
+511 timing idealTree:node_modules/@types/check-error Completed in 0ms
+512 timing idealTree:node_modules/@types/color-convert Completed in 0ms
+513 timing idealTree:node_modules/@types/color-name Completed in 0ms
+514 timing idealTree:node_modules/@types/combined-stream Completed in 0ms
+515 timing idealTree:node_modules/@types/commondir Completed in 1ms
+516 timing idealTree:node_modules/@types/component-emitter Completed in 0ms
+517 timing idealTree:node_modules/@types/concat-map Completed in 0ms
+518 timing idealTree:node_modules/@types/connect Completed in 0ms
+519 timing idealTree:node_modules/@types/content-disposition Completed in 0ms
+520 timing idealTree:node_modules/@types/content-type Completed in 0ms
+521 timing idealTree:node_modules/@types/convert-source-map Completed in 0ms
+522 timing idealTree:node_modules/@types/cookie Completed in 0ms
+523 timing idealTree:node_modules/@types/cookie-signature Completed in 0ms
+524 timing idealTree:node_modules/@types/cookiejar Completed in 0ms
+525 timing idealTree:node_modules/@types/cross-spawn Completed in 0ms
+526 timing idealTree:node_modules/@types/dashdash Completed in 0ms
+527 timing idealTree:node_modules/@types/debug Completed in 0ms
+528 timing idealTree:node_modules/@types/deep-equal Completed in 0ms
+529 timing idealTree:node_modules/@types/define-properties Completed in 0ms
+530 timing idealTree:node_modules/@types/depd Completed in 0ms
+531 timing idealTree:node_modules/@types/destroy Completed in 0ms
+532 timing idealTree:node_modules/@types/diff Completed in 0ms
+533 timing idealTree:node_modules/@types/ee-first Completed in 0ms
+534 timing idealTree:node_modules/@types/encodeurl Completed in 0ms
+535 timing idealTree:node_modules/@types/escape-html Completed in 0ms
+536 silly placeDep ROOT @types/estree@0.0.51 OK for: @types/esprima@4.0.3 want: *
+537 timing idealTree:node_modules/@types/esprima Completed in 1ms
+538 timing idealTree:node_modules/@types/estree Completed in 0ms
+539 timing idealTree:node_modules/@types/etag Completed in 0ms
+540 silly placeDep ROOT @types/express-serve-static-core@4.17.28 OK for: @types/express@4.17.13 want: ^4.17.18
+541 timing idealTree:node_modules/@types/express Completed in 1ms
+542 timing idealTree:node_modules/@types/express-serve-static-core Completed in 0ms
+543 timing idealTree:node_modules/@types/extend Completed in 0ms
+544 timing idealTree:node_modules/@types/extsprintf Completed in 0ms
+545 timing idealTree:node_modules/@types/fill-range Completed in 0ms
+546 timing idealTree:node_modules/@types/finalhandler Completed in 0ms
+547 timing idealTree:node_modules/@types/find-cache-dir Completed in 0ms
+548 timing idealTree:node_modules/@types/flat Completed in 0ms
+549 timing idealTree:node_modules/@types/forever-agent Completed in 0ms
+550 timing idealTree:node_modules/@types/formidable Completed in 0ms
+551 timing idealTree:node_modules/@types/forwarded Completed in 0ms
+552 timing idealTree:node_modules/@types/fresh Completed in 0ms
+553 timing idealTree:node_modules/@types/function-bind Completed in 0ms
+554 timing idealTree:node_modules/@types/get-func-name Completed in 0ms
+555 timing idealTree:node_modules/@types/getpass Completed in 0ms
+556 timing idealTree:node_modules/@types/glob Completed in 0ms
+557 timing idealTree:node_modules/@types/glob-parent Completed in 0ms
+558 timing idealTree:node_modules/@types/graceful-fs Completed in 0ms
+559 timing idealTree:node_modules/@types/has Completed in 0ms
+560 timing idealTree:node_modules/@types/he Completed in 0ms
+561 timing idealTree:node_modules/@types/html-escaper Completed in 0ms
+562 timing idealTree:node_modules/@types/http-errors Completed in 0ms
+563 timing idealTree:node_modules/@types/imurmurhash Completed in 0ms
+564 timing idealTree:node_modules/@types/inherits Completed in 0ms
+565 timing idealTree:node_modules/@types/is-arguments Completed in 0ms
+566 timing idealTree:node_modules/@types/is-date-object Completed in 0ms
+567 timing idealTree:node_modules/@types/is-glob Completed in 0ms
+568 timing idealTree:node_modules/@types/is-number Completed in 0ms
+569 timing idealTree:node_modules/@types/is-regex Completed in 0ms
+570 timing idealTree:node_modules/@types/is-typedarray Completed in 1ms
+571 timing idealTree:node_modules/@types/is-windows Completed in 0ms
+572 timing idealTree:node_modules/@types/isarray Completed in 0ms
+573 timing idealTree:node_modules/@types/isexe Completed in 0ms
+574 timing idealTree:node_modules/@types/isstream Completed in 0ms
+575 timing idealTree:node_modules/@types/istanbul-lib-coverage Completed in 0ms
+576 timing idealTree:node_modules/@types/istanbul-lib-hook Completed in 0ms
+577 silly placeDep ROOT @types/babel-types@7.0.11 OK for: @types/istanbul-lib-instrument@1.7.4 want: *
+578 silly placeDep ROOT source-map@0.6.1 OK for: @types/istanbul-lib-instrument@1.7.4 want: ^0.6.1
+579 timing idealTree:node_modules/@types/istanbul-lib-instrument Completed in 2ms
+580 timing idealTree:node_modules/@types/babel-types Completed in 0ms
+581 timing idealTree:node_modules/@types/istanbul-lib-report Completed in 0ms
+582 timing idealTree:node_modules/@types/istanbul-lib-source-maps Completed in 0ms
+583 timing idealTree:node_modules/@types/istanbul-reports Completed in 0ms
+584 timing idealTree:node_modules/@types/js-yaml Completed in 0ms
+585 timing idealTree:node_modules/@types/jsbn Completed in 0ms
+586 timing idealTree:node_modules/@types/jsesc Completed in 0ms
+587 timing idealTree:node_modules/@types/json-schema Completed in 0ms
+588 timing idealTree:node_modules/@types/json-stringify-safe Completed in 0ms
+589 timing idealTree:node_modules/@types/lodash Completed in 0ms
+590 timing idealTree:node_modules/@types/lodash.flattendeep Completed in 0ms
+591 timing idealTree:node_modules/@types/media-typer Completed in 0ms
+592 timing idealTree:node_modules/@types/merge-descriptors Completed in 0ms
+593 timing idealTree:node_modules/@types/methods Completed in 0ms
+594 timing idealTree:node_modules/@types/mime Completed in 0ms
+595 timing idealTree:node_modules/@types/mime-db Completed in 0ms
+596 timing idealTree:node_modules/@types/mime-types Completed in 0ms
+597 timing idealTree:node_modules/@types/minimatch Completed in 0ms
+598 timing idealTree:node_modules/@types/minimist Completed in 0ms
+599 timing idealTree:node_modules/@types/mkdirp Completed in 0ms
+600 timing idealTree:node_modules/@types/mocha Completed in 0ms
+601 timing idealTree:node_modules/@types/ms Completed in 0ms
+602 timing idealTree:node_modules/@types/negotiator Completed in 0ms
+603 timing idealTree:node_modules/@types/node Completed in 0ms
+604 timing idealTree:node_modules/@types/normalize-path Completed in 0ms
+605 timing idealTree:node_modules/@types/object-keys Completed in 0ms
+606 timing idealTree:node_modules/@types/on-finished Completed in 0ms
+607 timing idealTree:node_modules/@types/once Completed in 0ms
+608 timing idealTree:node_modules/@types/parseurl Completed in 0ms
+609 timing idealTree:node_modules/@types/path-is-absolute Completed in 0ms
+610 timing idealTree:node_modules/@types/pathval Completed in 0ms
+611 timing idealTree:node_modules/@types/picomatch Completed in 0ms
+612 timing idealTree:node_modules/@types/proxy-addr Completed in 0ms
+613 timing idealTree:node_modules/@types/psl Completed in 0ms
+614 timing idealTree:node_modules/@types/punycode Completed in 0ms
+615 timing idealTree:node_modules/@types/qs Completed in 0ms
+616 timing idealTree:node_modules/@types/randombytes Completed in 0ms
+617 timing idealTree:node_modules/@types/range-parser Completed in 0ms
+618 silly placeDep ROOT safe-buffer@5.2.1 OK for: @types/readable-stream@2.3.13 want: *
+619 timing idealTree:node_modules/@types/readable-stream Completed in 2ms
+620 silly placeDep ROOT form-data@2.5.1 OK for: @types/request@2.48.8 want: ^2.5.0
+621 silly fetch manifest asynckit@^0.4.0
+622 silly fetch manifest combined-stream@^1.0.6
+623 silly fetch manifest mime-types@^2.1.12
+624 http fetch GET 200 https://registry.yarnpkg.com/combined-stream 34ms (cache miss)
+625 http fetch GET 200 https://registry.yarnpkg.com/mime-types 34ms (cache miss)
+626 http fetch GET 200 https://registry.yarnpkg.com/asynckit 39ms (cache miss)
+627 timing idealTree:node_modules/@types/request Completed in 41ms
+628 timing idealTree:node_modules/@types/require-directory Completed in 1ms
+629 timing idealTree:node_modules/@types/rimraf Completed in 0ms
+630 timing idealTree:node_modules/@types/safer-buffer Completed in 0ms
+631 timing idealTree:node_modules/@types/semver Completed in 0ms
+632 silly placeDep node_modules/@types/send @types/mime@1.3.2 OK for: @types/send@0.17.1 want: ^1
+633 timing idealTree:node_modules/@types/send Completed in 3ms
+634 timing idealTree:node_modules/@types/serialize-javascript Completed in 0ms
+635 silly placeDep node_modules/@types/serve-static @types/mime@1.3.2 OK for: @types/serve-static@1.13.10 want: ^1
+636 timing idealTree:node_modules/@types/serve-static Completed in 2ms
+637 timing idealTree:node_modules/@types/shebang-command Completed in 0ms
+638 timing idealTree:node_modules/@types/signal-exit Completed in 0ms
+639 timing idealTree:node_modules/@types/sprintf Completed in 0ms
+640 timing idealTree:node_modules/@types/sprintf-js Completed in 0ms
+641 timing idealTree:node_modules/@types/sshpk Completed in 0ms
+642 timing idealTree:node_modules/@types/statuses Completed in 0ms
+643 timing idealTree:node_modules/@types/superagent Completed in 0ms
+644 timing idealTree:node_modules/@types/supertest Completed in 0ms
+645 timing idealTree:node_modules/@types/supports-color Completed in 0ms
+646 timing idealTree:node_modules/@types/to-regex-range Completed in 0ms
+647 timing idealTree:node_modules/@types/tough-cookie Completed in 0ms
+648 timing idealTree:node_modules/@types/type-detect Completed in 0ms
+649 timing idealTree:node_modules/@types/type-is Completed in 0ms
+650 timing idealTree:node_modules/@types/uglify-js Completed in 0ms
+651 timing idealTree:node_modules/@types/util-deprecate Completed in 0ms
+652 timing idealTree:node_modules/@types/utils-merge Completed in 0ms
+653 timing idealTree:node_modules/@types/uuid Completed in 0ms
+654 timing idealTree:node_modules/@types/vary Completed in 0ms
+655 timing idealTree:node_modules/@types/verror Completed in 0ms
+656 timing idealTree:node_modules/@types/which Completed in 0ms
+657 timing idealTree:node_modules/@types/wordwrap Completed in 0ms
+658 timing idealTree:node_modules/@types/workerpool Completed in 0ms
+659 timing idealTree:node_modules/@types/wrap-ansi Completed in 0ms
+660 timing idealTree:node_modules/@types/write-file-atomic Completed in 0ms
+661 timing idealTree:node_modules/@types/yargs Completed in 0ms
+662 timing idealTree:node_modules/@types/yargs-parser Completed in 0ms
+663 timing idealTree:node_modules/@types/yargs-unparser Completed in 0ms
+664 silly placeDep ROOT asynckit@0.4.0 OK for: form-data@2.5.1 want: ^0.4.0
+665 silly placeDep ROOT combined-stream@1.0.8 OK for: form-data@2.5.1 want: ^1.0.6
+666 silly placeDep ROOT mime-types@2.1.34 OK for: form-data@2.5.1 want: ^2.1.12
+667 silly fetch manifest delayed-stream@~1.0.0
+668 silly fetch manifest mime-db@1.51.0
+669 http fetch GET 200 https://registry.yarnpkg.com/delayed-stream 24ms (cache miss)
+670 http fetch GET 200 https://registry.yarnpkg.com/mime-db 44ms (cache miss)
+671 timing idealTree:node_modules/form-data Completed in 50ms
+672 timing idealTree:node_modules/asynckit Completed in 0ms
+673 silly placeDep ROOT delayed-stream@1.0.0 OK for: combined-stream@1.0.8 want: ~1.0.0
+674 timing idealTree:node_modules/combined-stream Completed in 2ms
+675 timing idealTree:node_modules/delayed-stream Completed in 0ms
+676 silly placeDep ROOT mime-db@1.51.0 OK for: mime-types@2.1.34 want: 1.51.0
+677 timing idealTree:node_modules/mime-types Completed in 1ms
+678 timing idealTree:node_modules/mime-db Completed in 0ms
+679 timing idealTree:node_modules/safe-buffer Completed in 0ms
+680 timing idealTree:node_modules/source-map Completed in 0ms
+681 timing idealTree:node_modules/@types/send/node_modules/@types/mime Completed in 0ms
+682 timing idealTree:node_modules/@types/serve-static/node_modules/@types/mime Completed in 0ms
+683 timing idealTree:buildDeps Completed in 1405ms
+684 timing idealTree:fixDepFlags Completed in 2ms
+685 timing idealTree Completed in 5662ms
+686 timing reify:loadTrees Completed in 5670ms
+687 timing reify:diffTrees Completed in 3ms
+688 silly reify moves {}
+689 timing reify:retireShallow Completed in 1ms
+690 timing reify:createSparse Completed in 59ms
+691 timing reify:loadBundles Completed in 0ms
+692 silly audit bulk request {
+692 silly audit   'types-registry': [ '0.1.582' ],
+692 silly audit   '@types/accepts': [ '1.3.5' ],
+692 silly audit   '@types/archy': [ '0.0.32' ],
+692 silly audit   '@types/argparse': [ '1.0.38' ],
+692 silly audit   '@types/asn1': [ '0.2.0' ],
+692 silly audit   '@types/assert-plus': [ '1.0.4' ],
+692 silly audit   '@types/aws4': [ '1.5.2' ],
+692 silly audit   '@types/balanced-match': [ '1.0.2' ],
+692 silly audit   '@types/body-parser': [ '1.19.2' ],
+692 silly audit   '@types/brace-expansion': [ '1.1.0' ],
+692 silly audit   '@types/braces': [ '3.0.1' ],
+692 silly audit   '@types/bytes': [ '3.1.1' ],
+692 silly audit   '@types/caniuse-lite': [ '1.0.1' ],
+692 silly audit   '@types/caseless': [ '0.12.2' ],
+692 silly audit   '@types/chai': [ '4.3.0' ],
+692 silly audit   '@types/check-error': [ '1.0.0' ],
+692 silly audit   '@types/color-convert': [ '2.0.0' ],
+692 silly audit   '@types/color-name': [ '1.1.1' ],
+692 silly audit   '@types/combined-stream': [ '1.0.3' ],
+692 silly audit   '@types/commondir': [ '1.0.0' ],
+692 silly audit   '@types/component-emitter': [ '1.2.11' ],
+692 silly audit   '@types/concat-map': [ '0.0.1' ],
+692 silly audit   '@types/content-disposition': [ '0.5.4' ],
+692 silly audit   '@types/content-type': [ '1.1.5' ],
+692 silly audit   '@types/convert-source-map': [ '1.5.2' ],
+692 silly audit   '@types/cookie': [ '0.4.1' ],
+692 silly audit   '@types/cookie-signature': [ '1.0.4' ],
+692 silly audit   '@types/cookiejar': [ '2.1.2' ],
+692 silly audit   '@types/cross-spawn': [ '6.0.2' ],
+692 silly audit   '@types/dashdash': [ '1.14.1' ],
+692 silly audit   '@types/debug': [ '4.1.7' ],
+692 silly audit   '@types/deep-equal': [ '1.0.1' ],
+692 silly audit   '@types/define-properties': [ '1.1.3' ],
+692 silly audit   '@types/depd': [ '1.1.32' ],
+692 silly audit   '@types/destroy': [ '1.0.0' ],
+692 silly audit   '@types/diff': [ '5.0.2' ],
+692 silly audit   '@types/ee-first': [ '1.1.0' ],
+692 silly audit   '@types/encodeurl': [ '1.0.0' ],
+692 silly audit   '@types/escape-html': [ '1.0.1' ],
+692 silly audit   '@types/esprima': [ '4.0.3' ],
+692 silly audit   '@types/etag': [ '1.8.1' ],
+692 silly audit   '@types/express': [ '4.17.13' ],
+692 silly audit   '@types/extend': [ '3.0.1' ],
+692 silly audit   '@types/extsprintf': [ '1.4.2' ],
+692 silly audit   '@types/fill-range': [ '7.0.0' ],
+692 silly audit   '@types/finalhandler': [ '1.1.1' ],
+692 silly audit   '@types/find-cache-dir': [ '3.2.1' ],
+692 silly audit   '@types/flat': [ '5.0.2' ],
+692 silly audit   '@types/forever-agent': [ '0.6.1' ],
+692 silly audit   '@types/formidable': [ '2.0.4' ],
+692 silly audit   '@types/forwarded': [ '0.1.0' ],
+692 silly audit   '@types/fresh': [ '0.5.0' ],
+692 silly audit   '@types/function-bind': [ '1.1.6' ],
+692 silly audit   '@types/get-func-name': [ '2.0.0' ],
+692 silly audit   '@types/getpass': [ '0.1.1' ],
+692 silly audit   '@types/glob': [ '7.2.0' ],
+692 silly audit   '@types/glob-parent': [ '5.1.1' ],
+692 silly audit   '@types/graceful-fs': [ '4.1.4' ],
+692 silly audit   '@types/has': [ '1.0.0' ],
+692 silly audit   '@types/he': [ '1.1.2' ],
+692 silly audit   '@types/html-escaper': [ '3.0.0' ],
+692 silly audit   '@types/http-errors': [ '1.8.2' ],
+692 silly audit   '@types/imurmurhash': [ '0.1.1' ],
+692 silly audit   '@types/inherits': [ '0.0.30' ],
+692 silly audit   '@types/is-arguments': [ '1.0.0' ],
+692 silly audit   '@types/is-date-object': [ '1.0.2' ],
+692 silly audit   '@types/is-glob': [ '4.0.2' ],
+692 silly audit   '@types/is-number': [ '7.0.2' ],
+692 silly audit   '@types/is-regex': [ '1.0.0' ],
+692 silly audit   '@types/is-typedarray': [ '1.0.0' ],
+692 silly audit   '@types/is-windows': [ '1.0.0' ],
+692 silly audit   '@types/isarray': [ '2.0.0' ],
+692 silly audit   '@types/isexe': [ '2.0.1' ],
+692 silly audit   '@types/isstream': [ '0.1.0' ],
+692 silly audit   '@types/istanbul-lib-coverage': [ '2.0.4' ],
+692 silly audit   '@types/istanbul-lib-hook': [ '2.0.1' ],
+692 silly audit   '@types/istanbul-lib-instrument': [ '1.7.4' ],
+692 silly audit   '@types/istanbul-lib-report': [ '3.0.0' ],
+692 silly audit   '@types/istanbul-lib-source-maps': [ '4.0.1' ],
+692 silly audit   '@types/istanbul-reports': [ '3.0.1' ],
+692 silly audit   '@types/js-yaml': [ '4.0.5' ],
+692 silly audit   '@types/jsbn': [ '1.2.30' ],
+692 silly audit   '@types/jsesc': [ '3.0.1' ],
+692 silly audit   '@types/json-schema': [ '7.0.9' ],
+692 silly audit   '@types/json-stringify-safe': [ '5.0.0' ],
+692 silly audit   '@types/lodash': [ '4.14.179' ],
+692 silly audit   '@types/lodash.flattendeep': [ '4.4.6' ],
+692 silly audit   '@types/media-typer': [ '1.1.1' ],
+692 silly audit   '@types/merge-descriptors': [ '1.0.1' ],
+692 silly audit   '@types/methods': [ '1.1.1' ],
+692 silly audit   '@types/mime': [ '2.0.3', '1.3.2' ],
+692 silly audit   '@types/mime-db': [ '1.43.1' ],
+692 silly audit   '@types/mime-types': [ '2.1.1' ],
+692 silly audit   '@types/minimatch': [ '3.0.5' ],
+692 silly audit   '@types/minimist': [ '1.2.2' ],
+692 silly audit   '@types/mkdirp': [ '1.0.2' ],
+692 silly audit   '@types/mocha': [ '9.1.0' ],
+692 silly audit   '@types/ms': [ '0.7.31' ],
+692 silly audit   '@types/negotiator': [ '0.6.1' ],
+692 silly audit   '@types/node': [ '17.0.21' ],
+692 silly audit   '@types/normalize-path': [ '3.0.0' ],
+692 silly audit   '@types/object-keys': [ '1.0.1' ],
+692 silly audit   '@types/on-finished': [ '2.3.1' ],
+692 silly audit   '@types/once': [ '1.4.0' ],
+692 silly audit   '@types/parseurl': [ '1.3.1' ],
+692 silly audit   '@types/path-is-absolute': [ '1.0.0' ],
+692 silly audit   '@types/pathval': [ '1.1.0' ],
+692 silly audit   '@types/picomatch': [ '2.3.0' ],
+692 silly audit   '@types/proxy-addr': [ '2.0.0' ],
+692 silly audit   '@types/psl': [ '1.1.0' ],
+692 silly audit   '@types/punycode': [ '2.1.0' ],
+692 silly audit   '@types/qs': [ '6.9.7' ],
+692 silly audit   '@types/randombytes': [ '2.0.0' ],
+692 silly audit   '@types/range-parser': [ '1.2.4' ],
+692 silly audit   '@types/readable-stream': [ '2.3.13' ],
+692 silly audit   '@types/request': [ '2.48.8' ],
+692 silly audit   '@types/require-directory': [ '2.1.2' ],
+692 silly audit   '@types/rimraf': [ '3.0.2' ],
+692 silly audit   '@types/safer-buffer': [ '2.1.0' ],
+692 silly audit   '@types/semver': [ '7.3.9' ],
+692 silly audit   '@types/send': [ '0.17.1' ],
+692 silly audit   '@types/serialize-javascript': [ '5.0.2' ],
+692 silly audit   '@types/serve-static': [ '1.13.10' ],
+692 silly audit   '@types/shebang-command': [ '1.2.0' ],
+692 silly audit   '@types/signal-exit': [ '3.0.1' ],
+692 silly audit   '@types/sprintf': [ '0.1.0' ],
+692 silly audit   '@types/sprintf-js': [ '1.1.2' ],
+692 silly audit   '@types/sshpk': [ '1.17.0' ],
+692 silly audit   '@types/statuses': [ '2.0.0' ],
+692 silly audit   '@types/superagent': [ '4.1.15' ],
+692 silly audit   '@types/supertest': [ '2.0.11' ],
+692 silly audit   '@types/supports-color': [ '8.1.1' ],
+692 silly audit   '@types/to-regex-range': [ '5.0.0' ],
+692 silly audit   '@types/tough-cookie': [ '4.0.1' ],
+692 silly audit   '@types/type-detect': [ '4.0.1' ],
+692 silly audit   '@types/type-is': [ '1.6.3' ],
+692 silly audit   '@types/uglify-js': [ '3.13.1' ],
+692 silly audit   '@types/util-deprecate': [ '1.0.0' ],
+692 silly audit   '@types/utils-merge': [ '0.0.28' ],
+692 silly audit   '@types/uuid': [ '8.3.4' ],
+692 silly audit   '@types/vary': [ '1.1.0' ],
+692 silly audit   '@types/verror': [ '1.10.5' ],
+692 silly audit   '@types/which': [ '2.0.1' ],
+692 silly audit   '@types/wordwrap': [ '1.0.1' ],
+692 silly audit   '@types/workerpool': [ '6.1.0' ],
+692 silly audit   '@types/wrap-ansi': [ '8.0.1' ],
+692 silly audit   '@types/write-file-atomic': [ '4.0.0' ],
+692 silly audit   '@types/yargs': [ '17.0.8' ],
+692 silly audit   '@types/yargs-parser': [ '20.2.1' ],
+692 silly audit   '@types/yargs-unparser': [ '2.0.1' ],
+692 silly audit   '@types/connect': [ '3.4.35' ],
+692 silly audit   '@types/estree': [ '0.0.51' ],
+692 silly audit   '@types/express-serve-static-core': [ '4.17.28' ],
+692 silly audit   '@types/babel-types': [ '7.0.11' ],
+692 silly audit   'source-map': [ '0.6.1' ],
+692 silly audit   'safe-buffer': [ '5.2.1' ],
+692 silly audit   'form-data': [ '2.5.1' ],
+692 silly audit   asynckit: [ '0.4.0' ],
+692 silly audit   'combined-stream': [ '1.0.8' ],
+692 silly audit   'mime-types': [ '2.1.34' ],
+692 silly audit   'delayed-stream': [ '1.0.0' ],
+692 silly audit   'mime-db': [ '1.51.0' ]
+692 silly audit }
+693 silly tarball no local data for mime-db@https://registry.yarnpkg.com/mime-db/-/mime-db-1.51.0.tgz. Extracting by manifest.
+694 silly tarball no local data for mime-types@https://registry.yarnpkg.com/mime-types/-/mime-types-2.1.34.tgz. Extracting by manifest.
+695 silly tarball no local data for form-data@https://registry.yarnpkg.com/form-data/-/form-data-2.5.1.tgz. Extracting by manifest.
+696 silly tarball no local data for safe-buffer@https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.2.1.tgz. Extracting by manifest.
+697 silly tarball no local data for @types/babel-types@https://registry.yarnpkg.com/@types/babel-types/-/babel-types-7.0.11.tgz. Extracting by manifest.
+698 silly tarball no local data for @types/express-serve-static-core@https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.17.28.tgz. Extracting by manifest.
+699 silly tarball no local data for @types/estree@https://registry.yarnpkg.com/@types/estree/-/estree-0.0.51.tgz. Extracting by manifest.
+700 silly tarball no local data for @types/connect@https://registry.yarnpkg.com/@types/connect/-/connect-3.4.35.tgz. Extracting by manifest.
+701 silly tarball no local data for @types/yargs-unparser@https://registry.yarnpkg.com/@types/yargs-unparser/-/yargs-unparser-2.0.1.tgz. Extracting by manifest.
+702 silly tarball no local data for @types/yargs-parser@https://registry.yarnpkg.com/@types/yargs-parser/-/yargs-parser-20.2.1.tgz. Extracting by manifest.
+703 silly tarball no local data for @types/yargs@https://registry.yarnpkg.com/@types/yargs/-/yargs-17.0.8.tgz. Extracting by manifest.
+704 silly tarball no local data for @types/write-file-atomic@https://registry.yarnpkg.com/@types/write-file-atomic/-/write-file-atomic-4.0.0.tgz. Extracting by manifest.
+705 silly tarball no local data for @types/wrap-ansi@https://registry.yarnpkg.com/@types/wrap-ansi/-/wrap-ansi-8.0.1.tgz. Extracting by manifest.
+706 silly tarball no local data for @types/workerpool@https://registry.yarnpkg.com/@types/workerpool/-/workerpool-6.1.0.tgz. Extracting by manifest.
+707 silly tarball no local data for @types/wordwrap@https://registry.yarnpkg.com/@types/wordwrap/-/wordwrap-1.0.1.tgz. Extracting by manifest.
+708 silly tarball no local data for @types/which@https://registry.yarnpkg.com/@types/which/-/which-2.0.1.tgz. Extracting by manifest.
+709 silly tarball no local data for @types/verror@https://registry.yarnpkg.com/@types/verror/-/verror-1.10.5.tgz. Extracting by manifest.
+710 silly tarball no local data for @types/vary@https://registry.yarnpkg.com/@types/vary/-/vary-1.1.0.tgz. Extracting by manifest.
+711 silly tarball no local data for @types/uuid@https://registry.yarnpkg.com/@types/uuid/-/uuid-8.3.4.tgz. Extracting by manifest.
+712 silly tarball no local data for @types/utils-merge@https://registry.yarnpkg.com/@types/utils-merge/-/utils-merge-0.0.28.tgz. Extracting by manifest.
+713 silly tarball no local data for @types/util-deprecate@https://registry.yarnpkg.com/@types/util-deprecate/-/util-deprecate-1.0.0.tgz. Extracting by manifest.
+714 silly tarball no local data for @types/uglify-js@https://registry.yarnpkg.com/@types/uglify-js/-/uglify-js-3.13.1.tgz. Extracting by manifest.
+715 silly tarball no local data for @types/type-is@https://registry.yarnpkg.com/@types/type-is/-/type-is-1.6.3.tgz. Extracting by manifest.
+716 silly tarball no local data for @types/type-detect@https://registry.yarnpkg.com/@types/type-detect/-/type-detect-4.0.1.tgz. Extracting by manifest.
+717 silly tarball no local data for @types/tough-cookie@https://registry.yarnpkg.com/@types/tough-cookie/-/tough-cookie-4.0.1.tgz. Extracting by manifest.
+718 silly tarball no local data for @types/to-regex-range@https://registry.yarnpkg.com/@types/to-regex-range/-/to-regex-range-5.0.0.tgz. Extracting by manifest.
+719 silly tarball no local data for @types/supports-color@https://registry.yarnpkg.com/@types/supports-color/-/supports-color-8.1.1.tgz. Extracting by manifest.
+720 silly tarball no local data for @types/supertest@https://registry.yarnpkg.com/@types/supertest/-/supertest-2.0.11.tgz. Extracting by manifest.
+721 silly tarball no local data for @types/superagent@https://registry.yarnpkg.com/@types/superagent/-/superagent-4.1.15.tgz. Extracting by manifest.
+722 silly tarball no local data for @types/statuses@https://registry.yarnpkg.com/@types/statuses/-/statuses-2.0.0.tgz. Extracting by manifest.
+723 silly tarball no local data for @types/sshpk@https://registry.yarnpkg.com/@types/sshpk/-/sshpk-1.17.0.tgz. Extracting by manifest.
+724 silly tarball no local data for @types/sprintf-js@https://registry.yarnpkg.com/@types/sprintf-js/-/sprintf-js-1.1.2.tgz. Extracting by manifest.
+725 silly tarball no local data for @types/sprintf@https://registry.yarnpkg.com/@types/sprintf/-/sprintf-0.1.0.tgz. Extracting by manifest.
+726 silly tarball no local data for @types/signal-exit@https://registry.yarnpkg.com/@types/signal-exit/-/signal-exit-3.0.1.tgz. Extracting by manifest.
+727 silly tarball no local data for @types/shebang-command@https://registry.yarnpkg.com/@types/shebang-command/-/shebang-command-1.2.0.tgz. Extracting by manifest.
+728 silly tarball no local data for @types/serialize-javascript@https://registry.yarnpkg.com/@types/serialize-javascript/-/serialize-javascript-5.0.2.tgz. Extracting by manifest.
+729 silly tarball no local data for @types/serve-static@https://registry.yarnpkg.com/@types/serve-static/-/serve-static-1.13.10.tgz. Extracting by manifest.
+730 silly tarball no local data for @types/send@https://registry.yarnpkg.com/@types/send/-/send-0.17.1.tgz. Extracting by manifest.
+731 silly tarball no local data for @types/semver@https://registry.yarnpkg.com/@types/semver/-/semver-7.3.9.tgz. Extracting by manifest.
+732 silly tarball no local data for @types/safer-buffer@https://registry.yarnpkg.com/@types/safer-buffer/-/safer-buffer-2.1.0.tgz. Extracting by manifest.
+733 silly tarball no local data for @types/rimraf@https://registry.yarnpkg.com/@types/rimraf/-/rimraf-3.0.2.tgz. Extracting by manifest.
+734 silly tarball no local data for @types/require-directory@https://registry.yarnpkg.com/@types/require-directory/-/require-directory-2.1.2.tgz. Extracting by manifest.
+735 silly tarball no local data for @types/request@https://registry.yarnpkg.com/@types/request/-/request-2.48.8.tgz. Extracting by manifest.
+736 silly tarball no local data for @types/readable-stream@https://registry.yarnpkg.com/@types/readable-stream/-/readable-stream-2.3.13.tgz. Extracting by manifest.
+737 silly tarball no local data for @types/range-parser@https://registry.yarnpkg.com/@types/range-parser/-/range-parser-1.2.4.tgz. Extracting by manifest.
+738 silly tarball no local data for @types/randombytes@https://registry.yarnpkg.com/@types/randombytes/-/randombytes-2.0.0.tgz. Extracting by manifest.
+739 silly tarball no local data for @types/qs@https://registry.yarnpkg.com/@types/qs/-/qs-6.9.7.tgz. Extracting by manifest.
+740 silly tarball no local data for @types/punycode@https://registry.yarnpkg.com/@types/punycode/-/punycode-2.1.0.tgz. Extracting by manifest.
+741 silly tarball no local data for @types/psl@https://registry.yarnpkg.com/@types/psl/-/psl-1.1.0.tgz. Extracting by manifest.
+742 silly tarball no local data for @types/proxy-addr@https://registry.yarnpkg.com/@types/proxy-addr/-/proxy-addr-2.0.0.tgz. Extracting by manifest.
+743 silly tarball no local data for @types/picomatch@https://registry.yarnpkg.com/@types/picomatch/-/picomatch-2.3.0.tgz. Extracting by manifest.
+744 silly tarball no local data for @types/pathval@https://registry.yarnpkg.com/@types/pathval/-/pathval-1.1.0.tgz. Extracting by manifest.
+745 silly tarball no local data for @types/path-is-absolute@https://registry.yarnpkg.com/@types/path-is-absolute/-/path-is-absolute-1.0.0.tgz. Extracting by manifest.
+746 silly tarball no local data for @types/parseurl@https://registry.yarnpkg.com/@types/parseurl/-/parseurl-1.3.1.tgz. Extracting by manifest.
+747 silly tarball no local data for @types/once@https://registry.yarnpkg.com/@types/once/-/once-1.4.0.tgz. Extracting by manifest.
+748 silly tarball no local data for @types/on-finished@https://registry.yarnpkg.com/@types/on-finished/-/on-finished-2.3.1.tgz. Extracting by manifest.
+749 silly tarball no local data for @types/object-keys@https://registry.yarnpkg.com/@types/object-keys/-/object-keys-1.0.1.tgz. Extracting by manifest.
+750 silly tarball no local data for @types/normalize-path@https://registry.yarnpkg.com/@types/normalize-path/-/normalize-path-3.0.0.tgz. Extracting by manifest.
+751 silly tarball no local data for @types/node@https://registry.yarnpkg.com/@types/node/-/node-17.0.21.tgz. Extracting by manifest.
+752 silly tarball no local data for @types/negotiator@https://registry.yarnpkg.com/@types/negotiator/-/negotiator-0.6.1.tgz. Extracting by manifest.
+753 silly tarball no local data for @types/ms@https://registry.yarnpkg.com/@types/ms/-/ms-0.7.31.tgz. Extracting by manifest.
+754 silly tarball no local data for @types/mocha@https://registry.yarnpkg.com/@types/mocha/-/mocha-9.1.0.tgz. Extracting by manifest.
+755 silly tarball no local data for @types/mkdirp@https://registry.yarnpkg.com/@types/mkdirp/-/mkdirp-1.0.2.tgz. Extracting by manifest.
+756 silly tarball no local data for @types/minimist@https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.2.tgz. Extracting by manifest.
+757 silly tarball no local data for @types/minimatch@https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.5.tgz. Extracting by manifest.
+758 silly tarball no local data for @types/mime-types@https://registry.yarnpkg.com/@types/mime-types/-/mime-types-2.1.1.tgz. Extracting by manifest.
+759 silly tarball no local data for @types/mime-db@https://registry.yarnpkg.com/@types/mime-db/-/mime-db-1.43.1.tgz. Extracting by manifest.
+760 silly tarball no local data for @types/mime@https://registry.yarnpkg.com/@types/mime/-/mime-2.0.3.tgz. Extracting by manifest.
+761 silly tarball no local data for @types/methods@https://registry.yarnpkg.com/@types/methods/-/methods-1.1.1.tgz. Extracting by manifest.
+762 silly tarball no local data for @types/merge-descriptors@https://registry.yarnpkg.com/@types/merge-descriptors/-/merge-descriptors-1.0.1.tgz. Extracting by manifest.
+763 silly tarball no local data for @types/media-typer@https://registry.yarnpkg.com/@types/media-typer/-/media-typer-1.1.1.tgz. Extracting by manifest.
+764 silly tarball no local data for @types/lodash.flattendeep@https://registry.yarnpkg.com/@types/lodash.flattendeep/-/lodash.flattendeep-4.4.6.tgz. Extracting by manifest.
+765 silly tarball no local data for @types/lodash@https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.179.tgz. Extracting by manifest.
+766 silly tarball no local data for @types/json-stringify-safe@https://registry.yarnpkg.com/@types/json-stringify-safe/-/json-stringify-safe-5.0.0.tgz. Extracting by manifest.
+767 silly tarball no local data for @types/json-schema@https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.9.tgz. Extracting by manifest.
+768 silly tarball no local data for @types/jsesc@https://registry.yarnpkg.com/@types/jsesc/-/jsesc-3.0.1.tgz. Extracting by manifest.
+769 silly tarball no local data for @types/jsbn@https://registry.yarnpkg.com/@types/jsbn/-/jsbn-1.2.30.tgz. Extracting by manifest.
+770 silly tarball no local data for @types/js-yaml@https://registry.yarnpkg.com/@types/js-yaml/-/js-yaml-4.0.5.tgz. Extracting by manifest.
+771 silly tarball no local data for @types/istanbul-reports@https://registry.yarnpkg.com/@types/istanbul-reports/-/istanbul-reports-3.0.1.tgz. Extracting by manifest.
+772 silly tarball no local data for @types/istanbul-lib-source-maps@https://registry.yarnpkg.com/@types/istanbul-lib-source-maps/-/istanbul-lib-source-maps-4.0.1.tgz. Extracting by manifest.
+773 silly tarball no local data for @types/istanbul-lib-report@https://registry.yarnpkg.com/@types/istanbul-lib-report/-/istanbul-lib-report-3.0.0.tgz. Extracting by manifest.
+774 silly tarball no local data for @types/istanbul-lib-instrument@https://registry.yarnpkg.com/@types/istanbul-lib-instrument/-/istanbul-lib-instrument-1.7.4.tgz. Extracting by manifest.
+775 silly tarball no local data for @types/istanbul-lib-hook@https://registry.yarnpkg.com/@types/istanbul-lib-hook/-/istanbul-lib-hook-2.0.1.tgz. Extracting by manifest.
+776 silly tarball no local data for @types/istanbul-lib-coverage@https://registry.yarnpkg.com/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.4.tgz. Extracting by manifest.
+777 silly tarball no local data for @types/isstream@https://registry.yarnpkg.com/@types/isstream/-/isstream-0.1.0.tgz. Extracting by manifest.
+778 silly tarball no local data for @types/isexe@https://registry.yarnpkg.com/@types/isexe/-/isexe-2.0.1.tgz. Extracting by manifest.
+779 silly tarball no local data for @types/isarray@https://registry.yarnpkg.com/@types/isarray/-/isarray-2.0.0.tgz. Extracting by manifest.
+780 silly tarball no local data for @types/is-windows@https://registry.yarnpkg.com/@types/is-windows/-/is-windows-1.0.0.tgz. Extracting by manifest.
+781 silly tarball no local data for @types/is-typedarray@https://registry.yarnpkg.com/@types/is-typedarray/-/is-typedarray-1.0.0.tgz. Extracting by manifest.
+782 silly tarball no local data for @types/is-regex@https://registry.yarnpkg.com/@types/is-regex/-/is-regex-1.0.0.tgz. Extracting by manifest.
+783 silly tarball no local data for @types/is-number@https://registry.yarnpkg.com/@types/is-number/-/is-number-7.0.2.tgz. Extracting by manifest.
+784 silly tarball no local data for @types/is-glob@https://registry.yarnpkg.com/@types/is-glob/-/is-glob-4.0.2.tgz. Extracting by manifest.
+785 silly tarball no local data for @types/is-date-object@https://registry.yarnpkg.com/@types/is-date-object/-/is-date-object-1.0.2.tgz. Extracting by manifest.
+786 silly tarball no local data for @types/is-arguments@https://registry.yarnpkg.com/@types/is-arguments/-/is-arguments-1.0.0.tgz. Extracting by manifest.
+787 silly tarball no local data for @types/inherits@https://registry.yarnpkg.com/@types/inherits/-/inherits-0.0.30.tgz. Extracting by manifest.
+788 silly tarball no local data for @types/imurmurhash@https://registry.yarnpkg.com/@types/imurmurhash/-/imurmurhash-0.1.1.tgz. Extracting by manifest.
+789 silly tarball no local data for @types/http-errors@https://registry.yarnpkg.com/@types/http-errors/-/http-errors-1.8.2.tgz. Extracting by manifest.
+790 silly tarball no local data for @types/html-escaper@https://registry.yarnpkg.com/@types/html-escaper/-/html-escaper-3.0.0.tgz. Extracting by manifest.
+791 silly tarball no local data for @types/he@https://registry.yarnpkg.com/@types/he/-/he-1.1.2.tgz. Extracting by manifest.
+792 silly tarball no local data for @types/has@https://registry.yarnpkg.com/@types/has/-/has-1.0.0.tgz. Extracting by manifest.
+793 silly tarball no local data for @types/graceful-fs@https://registry.yarnpkg.com/@types/graceful-fs/-/graceful-fs-4.1.4.tgz. Extracting by manifest.
+794 silly tarball no local data for @types/glob-parent@https://registry.yarnpkg.com/@types/glob-parent/-/glob-parent-5.1.1.tgz. Extracting by manifest.
+795 silly tarball no local data for @types/glob@https://registry.yarnpkg.com/@types/glob/-/glob-7.2.0.tgz. Extracting by manifest.
+796 silly tarball no local data for @types/getpass@https://registry.yarnpkg.com/@types/getpass/-/getpass-0.1.1.tgz. Extracting by manifest.
+797 silly tarball no local data for @types/get-func-name@https://registry.yarnpkg.com/@types/get-func-name/-/get-func-name-2.0.0.tgz. Extracting by manifest.
+798 silly tarball no local data for @types/function-bind@https://registry.yarnpkg.com/@types/function-bind/-/function-bind-1.1.6.tgz. Extracting by manifest.
+799 silly tarball no local data for @types/fresh@https://registry.yarnpkg.com/@types/fresh/-/fresh-0.5.0.tgz. Extracting by manifest.
+800 silly tarball no local data for @types/forwarded@https://registry.yarnpkg.com/@types/forwarded/-/forwarded-0.1.0.tgz. Extracting by manifest.
+801 silly tarball no local data for @types/formidable@https://registry.yarnpkg.com/@types/formidable/-/formidable-2.0.4.tgz. Extracting by manifest.
+802 silly tarball no local data for @types/forever-agent@https://registry.yarnpkg.com/@types/forever-agent/-/forever-agent-0.6.1.tgz. Extracting by manifest.
+803 silly tarball no local data for @types/flat@https://registry.yarnpkg.com/@types/flat/-/flat-5.0.2.tgz. Extracting by manifest.
+804 silly tarball no local data for @types/find-cache-dir@https://registry.yarnpkg.com/@types/find-cache-dir/-/find-cache-dir-3.2.1.tgz. Extracting by manifest.
+805 silly tarball no local data for @types/finalhandler@https://registry.yarnpkg.com/@types/finalhandler/-/finalhandler-1.1.1.tgz. Extracting by manifest.
+806 silly tarball no local data for @types/fill-range@https://registry.yarnpkg.com/@types/fill-range/-/fill-range-7.0.0.tgz. Extracting by manifest.
+807 silly tarball no local data for @types/extsprintf@https://registry.yarnpkg.com/@types/extsprintf/-/extsprintf-1.4.2.tgz. Extracting by manifest.
+808 silly tarball no local data for @types/extend@https://registry.yarnpkg.com/@types/extend/-/extend-3.0.1.tgz. Extracting by manifest.
+809 silly tarball no local data for @types/express@https://registry.yarnpkg.com/@types/express/-/express-4.17.13.tgz. Extracting by manifest.
+810 silly tarball no local data for @types/etag@https://registry.yarnpkg.com/@types/etag/-/etag-1.8.1.tgz. Extracting by manifest.
+811 silly tarball no local data for @types/esprima@https://registry.yarnpkg.com/@types/esprima/-/esprima-4.0.3.tgz. Extracting by manifest.
+812 silly tarball no local data for @types/escape-html@https://registry.yarnpkg.com/@types/escape-html/-/escape-html-1.0.1.tgz. Extracting by manifest.
+813 silly tarball no local data for @types/encodeurl@https://registry.yarnpkg.com/@types/encodeurl/-/encodeurl-1.0.0.tgz. Extracting by manifest.
+814 silly tarball no local data for @types/ee-first@https://registry.yarnpkg.com/@types/ee-first/-/ee-first-1.1.0.tgz. Extracting by manifest.
+815 silly tarball no local data for @types/diff@https://registry.yarnpkg.com/@types/diff/-/diff-5.0.2.tgz. Extracting by manifest.
+816 silly tarball no local data for @types/destroy@https://registry.yarnpkg.com/@types/destroy/-/destroy-1.0.0.tgz. Extracting by manifest.
+817 silly tarball no local data for @types/depd@https://registry.yarnpkg.com/@types/depd/-/depd-1.1.32.tgz. Extracting by manifest.
+818 silly tarball no local data for @types/define-properties@https://registry.yarnpkg.com/@types/define-properties/-/define-properties-1.1.3.tgz. Extracting by manifest.
+819 silly tarball no local data for @types/deep-equal@https://registry.yarnpkg.com/@types/deep-equal/-/deep-equal-1.0.1.tgz. Extracting by manifest.
+820 silly tarball no local data for @types/debug@https://registry.yarnpkg.com/@types/debug/-/debug-4.1.7.tgz. Extracting by manifest.
+821 silly tarball no local data for @types/dashdash@https://registry.yarnpkg.com/@types/dashdash/-/dashdash-1.14.1.tgz. Extracting by manifest.
+822 silly tarball no local data for @types/cross-spawn@https://registry.yarnpkg.com/@types/cross-spawn/-/cross-spawn-6.0.2.tgz. Extracting by manifest.
+823 silly tarball no local data for @types/cookiejar@https://registry.yarnpkg.com/@types/cookiejar/-/cookiejar-2.1.2.tgz. Extracting by manifest.
+824 silly tarball no local data for @types/cookie-signature@https://registry.yarnpkg.com/@types/cookie-signature/-/cookie-signature-1.0.4.tgz. Extracting by manifest.
+825 silly tarball no local data for @types/cookie@https://registry.yarnpkg.com/@types/cookie/-/cookie-0.4.1.tgz. Extracting by manifest.
+826 silly tarball no local data for @types/convert-source-map@https://registry.yarnpkg.com/@types/convert-source-map/-/convert-source-map-1.5.2.tgz. Extracting by manifest.
+827 silly tarball no local data for @types/content-type@https://registry.yarnpkg.com/@types/content-type/-/content-type-1.1.5.tgz. Extracting by manifest.
+828 silly tarball no local data for @types/content-disposition@https://registry.yarnpkg.com/@types/content-disposition/-/content-disposition-0.5.4.tgz. Extracting by manifest.
+829 silly tarball no local data for @types/concat-map@https://registry.yarnpkg.com/@types/concat-map/-/concat-map-0.0.1.tgz. Extracting by manifest.
+830 silly tarball no local data for @types/component-emitter@https://registry.yarnpkg.com/@types/component-emitter/-/component-emitter-1.2.11.tgz. Extracting by manifest.
+831 silly tarball no local data for @types/commondir@https://registry.yarnpkg.com/@types/commondir/-/commondir-1.0.0.tgz. Extracting by manifest.
+832 silly tarball no local data for @types/combined-stream@https://registry.yarnpkg.com/@types/combined-stream/-/combined-stream-1.0.3.tgz. Extracting by manifest.
+833 silly tarball no local data for @types/color-name@https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz. Extracting by manifest.
+834 silly tarball no local data for @types/color-convert@https://registry.yarnpkg.com/@types/color-convert/-/color-convert-2.0.0.tgz. Extracting by manifest.
+835 silly tarball no local data for @types/check-error@https://registry.yarnpkg.com/@types/check-error/-/check-error-1.0.0.tgz. Extracting by manifest.
+836 silly tarball no local data for @types/chai@https://registry.yarnpkg.com/@types/chai/-/chai-4.3.0.tgz. Extracting by manifest.
+837 silly tarball no local data for @types/caseless@https://registry.yarnpkg.com/@types/caseless/-/caseless-0.12.2.tgz. Extracting by manifest.
+838 silly tarball no local data for @types/caniuse-lite@https://registry.yarnpkg.com/@types/caniuse-lite/-/caniuse-lite-1.0.1.tgz. Extracting by manifest.
+839 silly tarball no local data for @types/bytes@https://registry.yarnpkg.com/@types/bytes/-/bytes-3.1.1.tgz. Extracting by manifest.
+840 silly tarball no local data for @types/braces@https://registry.yarnpkg.com/@types/braces/-/braces-3.0.1.tgz. Extracting by manifest.
+841 silly tarball no local data for @types/brace-expansion@https://registry.yarnpkg.com/@types/brace-expansion/-/brace-expansion-1.1.0.tgz. Extracting by manifest.
+842 silly tarball no local data for @types/body-parser@https://registry.yarnpkg.com/@types/body-parser/-/body-parser-1.19.2.tgz. Extracting by manifest.
+843 silly tarball no local data for @types/balanced-match@https://registry.yarnpkg.com/@types/balanced-match/-/balanced-match-1.0.2.tgz. Extracting by manifest.
+844 silly tarball no local data for @types/aws4@https://registry.yarnpkg.com/@types/aws4/-/aws4-1.5.2.tgz. Extracting by manifest.
+845 silly tarball no local data for @types/assert-plus@https://registry.yarnpkg.com/@types/assert-plus/-/assert-plus-1.0.4.tgz. Extracting by manifest.
+846 silly tarball no local data for @types/asn1@https://registry.yarnpkg.com/@types/asn1/-/asn1-0.2.0.tgz. Extracting by manifest.
+847 silly tarball no local data for @types/argparse@https://registry.yarnpkg.com/@types/argparse/-/argparse-1.0.38.tgz. Extracting by manifest.
+848 silly tarball no local data for @types/archy@https://registry.yarnpkg.com/@types/archy/-/archy-0.0.32.tgz. Extracting by manifest.
+849 silly tarball no local data for @types/accepts@https://registry.yarnpkg.com/@types/accepts/-/accepts-1.3.5.tgz. Extracting by manifest.
+850 silly tarball no local data for @types/mime@https://registry.yarnpkg.com/@types/mime/-/mime-1.3.2.tgz. Extracting by manifest.
+851 silly tarball no local data for @types/mime@https://registry.yarnpkg.com/@types/mime/-/mime-1.3.2.tgz. Extracting by manifest.
+852 http fetch POST 200 https://registry.yarnpkg.com/-/npm/v1/security/advisories/bulk 379ms
+853 timing auditReport:getReport Completed in 383ms
+854 silly audit report {}
+855 timing auditReport:init Completed in 0ms
+856 timing reify:audit Completed in 384ms
+857 timing reifyNode:node_modules/combined-stream Completed in 512ms
+858 timing reifyNode:node_modules/delayed-stream Completed in 539ms
+859 http fetch GET 200 https://registry.yarnpkg.com/form-data/-/form-data-2.5.1.tgz 498ms (cache miss)
+860 timing reifyNode:node_modules/form-data Completed in 625ms
+861 http fetch GET 200 https://registry.yarnpkg.com/@types/wrap-ansi/-/wrap-ansi-8.0.1.tgz 489ms (cache miss)
+862 timing reifyNode:node_modules/@types/wrap-ansi Completed in 626ms
+863 http fetch GET 200 https://registry.yarnpkg.com/@types/wordwrap/-/wordwrap-1.0.1.tgz 496ms (cache miss)
+864 timing reifyNode:node_modules/@types/wordwrap Completed in 634ms
+865 http fetch GET 200 https://registry.yarnpkg.com/@types/uuid/-/uuid-8.3.4.tgz 512ms (cache miss)
+866 timing reifyNode:node_modules/@types/uuid Completed in 653ms
+867 http fetch GET 200 https://registry.yarnpkg.com/@types/connect/-/connect-3.4.35.tgz 533ms (cache miss)
+868 timing reifyNode:node_modules/@types/connect Completed in 664ms
+869 http fetch GET 200 https://registry.yarnpkg.com/@types/yargs-parser/-/yargs-parser-20.2.1.tgz 531ms (cache miss)
+870 timing reifyNode:node_modules/@types/yargs-parser Completed in 665ms
+871 http fetch GET 200 https://registry.yarnpkg.com/@types/vary/-/vary-1.1.0.tgz 535ms (cache miss)
+872 timing reifyNode:node_modules/@types/vary Completed in 675ms
+873 http fetch GET 200 https://registry.yarnpkg.com/@types/util-deprecate/-/util-deprecate-1.0.0.tgz 532ms (cache miss)
+874 timing reifyNode:node_modules/@types/util-deprecate Completed in 676ms
+875 http fetch GET 200 https://registry.yarnpkg.com/@types/which/-/which-2.0.1.tgz 538ms (cache miss)
+876 timing reifyNode:node_modules/@types/which Completed in 676ms
+877 http fetch GET 200 https://registry.yarnpkg.com/@types/to-regex-range/-/to-regex-range-5.0.0.tgz 536ms (cache miss)
+878 timing reifyNode:node_modules/@types/to-regex-range Completed in 684ms
+879 http fetch GET 200 https://registry.yarnpkg.com/@types/supertest/-/supertest-2.0.11.tgz 534ms (cache miss)
+880 timing reifyNode:node_modules/@types/supertest Completed in 684ms
+881 timing reifyNode:node_modules/asynckit Completed in 703ms
+882 http fetch GET 200 https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.2.1.tgz 575ms (cache miss)
+883 timing reifyNode:node_modules/safe-buffer Completed in 703ms
+884 http fetch GET 200 https://registry.yarnpkg.com/mime-types/-/mime-types-2.1.34.tgz 587ms (cache miss)
+885 timing reifyNode:node_modules/mime-types Completed in 713ms
+886 http fetch GET 200 https://registry.yarnpkg.com/@types/estree/-/estree-0.0.51.tgz 582ms (cache miss)
+887 timing reifyNode:node_modules/@types/estree Completed in 713ms
+888 http fetch GET 200 https://registry.yarnpkg.com/@types/write-file-atomic/-/write-file-atomic-4.0.0.tgz 577ms (cache miss)
+889 timing reifyNode:node_modules/@types/write-file-atomic Completed in 713ms
+890 http fetch GET 200 https://registry.yarnpkg.com/@types/statuses/-/statuses-2.0.0.tgz 562ms (cache miss)
+891 timing reifyNode:node_modules/@types/statuses Completed in 712ms
+892 http fetch GET 200 https://registry.yarnpkg.com/@types/superagent/-/superagent-4.1.15.tgz 563ms (cache miss)
+893 timing reifyNode:node_modules/@types/superagent Completed in 713ms
+894 http fetch GET 200 https://registry.yarnpkg.com/@types/serialize-javascript/-/serialize-javascript-5.0.2.tgz 558ms (cache miss)
+895 timing reifyNode:node_modules/@types/serialize-javascript Completed in 714ms
+896 http fetch GET 200 https://registry.yarnpkg.com/@types/sprintf-js/-/sprintf-js-1.1.2.tgz 568ms (cache miss)
+897 timing reifyNode:node_modules/@types/sprintf-js Completed in 721ms
+898 http fetch GET 200 https://registry.yarnpkg.com/@types/send/-/send-0.17.1.tgz 564ms (cache miss)
+899 timing reifyNode:node_modules/@types/send Completed in 722ms
+900 http fetch GET 200 https://registry.yarnpkg.com/@types/semver/-/semver-7.3.9.tgz 564ms (cache miss)
+901 http fetch GET 200 https://registry.yarnpkg.com/@types/supports-color/-/supports-color-8.1.1.tgz 580ms (cache miss)
+902 timing reifyNode:node_modules/@types/supports-color Completed in 729ms
+903 http fetch GET 200 https://registry.yarnpkg.com/@types/shebang-command/-/shebang-command-1.2.0.tgz 574ms (cache miss)
+904 timing reifyNode:node_modules/@types/shebang-command Completed in 729ms
+905 http fetch GET 200 https://registry.yarnpkg.com/@types/sprintf/-/sprintf-0.1.0.tgz 577ms (cache miss)
+906 timing reifyNode:node_modules/@types/sprintf Completed in 730ms
+907 http fetch GET 200 https://registry.yarnpkg.com/@types/require-directory/-/require-directory-2.1.2.tgz 569ms (cache miss)
+908 timing reifyNode:node_modules/@types/require-directory Completed in 730ms
+909 http fetch GET 200 https://registry.yarnpkg.com/@types/rimraf/-/rimraf-3.0.2.tgz 570ms (cache miss)
+910 timing reifyNode:node_modules/@types/rimraf Completed in 730ms
+911 http fetch GET 200 https://registry.yarnpkg.com/@types/serve-static/-/serve-static-1.13.10.tgz 581ms (cache miss)
+912 timing reifyNode:node_modules/@types/serve-static Completed in 738ms
+913 http fetch GET 200 https://registry.yarnpkg.com/@types/qs/-/qs-6.9.7.tgz 573ms (cache miss)
+914 timing reifyNode:node_modules/@types/qs Completed in 739ms
+915 http fetch GET 200 https://registry.yarnpkg.com/@types/randombytes/-/randombytes-2.0.0.tgz 575ms (cache miss)
+916 timing reifyNode:node_modules/@types/randombytes Completed in 740ms
+917 http fetch GET 200 https://registry.yarnpkg.com/@types/safer-buffer/-/safer-buffer-2.1.0.tgz 584ms (cache miss)
+918 timing reifyNode:node_modules/@types/safer-buffer Completed in 743ms
+919 http fetch GET 200 https://registry.yarnpkg.com/@types/signal-exit/-/signal-exit-3.0.1.tgz 595ms (cache miss)
+920 timing reifyNode:node_modules/@types/signal-exit Completed in 749ms
+921 http fetch GET 200 https://registry.yarnpkg.com/@types/babel-types/-/babel-types-7.0.11.tgz 628ms (cache miss)
+922 timing reifyNode:node_modules/@types/babel-types Completed in 756ms
+923 http fetch GET 200 https://registry.yarnpkg.com/@types/range-parser/-/range-parser-1.2.4.tgz 592ms (cache miss)
+924 timing reifyNode:node_modules/@types/range-parser Completed in 755ms
+925 http fetch GET 200 https://registry.yarnpkg.com/@types/uglify-js/-/uglify-js-3.13.1.tgz 618ms (cache miss)
+926 timing reifyNode:node_modules/@types/uglify-js Completed in 762ms
+927 http fetch GET 200 https://registry.yarnpkg.com/@types/punycode/-/punycode-2.1.0.tgz 595ms (cache miss)
+928 timing reifyNode:node_modules/@types/punycode Completed in 761ms
+929 http fetch GET 200 https://registry.yarnpkg.com/@types/proxy-addr/-/proxy-addr-2.0.0.tgz 595ms (cache miss)
+930 timing reifyNode:node_modules/@types/proxy-addr Completed in 762ms
+931 http fetch GET 200 https://registry.yarnpkg.com/@types/once/-/once-1.4.0.tgz 598ms (cache miss)
+932 timing reifyNode:node_modules/@types/once Completed in 768ms
+933 http fetch GET 200 https://registry.yarnpkg.com/@types/request/-/request-2.48.8.tgz 618ms (cache miss)
+934 timing reifyNode:node_modules/@types/request Completed in 780ms
+935 http fetch GET 200 https://registry.yarnpkg.com/@types/psl/-/psl-1.1.0.tgz 613ms (cache miss)
+936 timing reifyNode:node_modules/@types/psl Completed in 781ms
+937 http fetch GET 200 https://registry.yarnpkg.com/@types/pathval/-/pathval-1.1.0.tgz 614ms (cache miss)
+938 timing reifyNode:node_modules/@types/pathval Completed in 783ms
+939 http fetch GET 200 https://registry.yarnpkg.com/@types/on-finished/-/on-finished-2.3.1.tgz 615ms (cache miss)
+940 timing reifyNode:node_modules/@types/on-finished Completed in 785ms
+941 http fetch GET 200 https://registry.yarnpkg.com/@types/object-keys/-/object-keys-1.0.1.tgz 614ms (cache miss)
+942 timing reifyNode:node_modules/@types/object-keys Completed in 786ms
+943 http fetch GET 200 https://registry.yarnpkg.com/@types/yargs/-/yargs-17.0.8.tgz 662ms (cache miss)
+944 timing reifyNode:node_modules/@types/yargs Completed in 797ms
+945 http fetch GET 200 https://registry.yarnpkg.com/@types/readable-stream/-/readable-stream-2.3.13.tgz 633ms (cache miss)
+946 timing reifyNode:node_modules/@types/readable-stream Completed in 795ms
+947 http fetch GET 200 https://registry.yarnpkg.com/@types/path-is-absolute/-/path-is-absolute-1.0.0.tgz 629ms (cache miss)
+948 timing reifyNode:node_modules/@types/path-is-absolute Completed in 798ms
+949 http fetch GET 200 https://registry.yarnpkg.com/@types/negotiator/-/negotiator-0.6.1.tgz 629ms (cache miss)
+950 timing reifyNode:node_modules/@types/negotiator Completed in 802ms
+951 http fetch GET 200 https://registry.yarnpkg.com/@types/normalize-path/-/normalize-path-3.0.0.tgz 632ms (cache miss)
+952 timing reifyNode:node_modules/@types/normalize-path Completed in 803ms
+953 http fetch GET 200 https://registry.yarnpkg.com/@types/mkdirp/-/mkdirp-1.0.2.tgz 628ms (cache miss)
+954 timing reifyNode:node_modules/@types/mkdirp Completed in 804ms
+955 http fetch GET 200 https://registry.yarnpkg.com/mime-db/-/mime-db-1.51.0.tgz 687ms (cache miss)
+956 timing reifyNode:node_modules/mime-db Completed in 811ms
+957 http fetch GET 200 https://registry.yarnpkg.com/@types/ms/-/ms-0.7.31.tgz 635ms (cache miss)
+958 timing reifyNode:node_modules/@types/ms Completed in 808ms
+959 http fetch GET 200 https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.2.tgz 632ms (cache miss)
+960 timing reifyNode:node_modules/@types/minimist Completed in 813ms
+961 http fetch GET 200 https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.17.28.tgz 689ms (cache miss)
+962 timing reifyNode:node_modules/@types/express-serve-static-core Completed in 818ms
+963 http fetch GET 200 https://registry.yarnpkg.com/@types/mime-types/-/mime-types-2.1.1.tgz 633ms (cache miss)
+964 timing reifyNode:node_modules/@types/mime-types Completed in 814ms
+965 http fetch GET 200 https://registry.yarnpkg.com/@types/mime-db/-/mime-db-1.43.1.tgz 636ms (cache miss)
+966 timing reifyNode:node_modules/@types/mime-db Completed in 818ms
+967 http fetch GET 200 https://registry.yarnpkg.com/@types/picomatch/-/picomatch-2.3.0.tgz 653ms (cache miss)
+968 timing reifyNode:node_modules/@types/picomatch Completed in 822ms
+969 http fetch GET 200 https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.5.tgz 639ms (cache miss)
+970 timing reifyNode:node_modules/@types/minimatch Completed in 821ms
+971 http fetch GET 200 https://registry.yarnpkg.com/@types/mime/-/mime-2.0.3.tgz 645ms (cache miss)
+972 timing reifyNode:node_modules/@types/mime Completed in 828ms
+973 http fetch GET 200 https://registry.yarnpkg.com/@types/merge-descriptors/-/merge-descriptors-1.0.1.tgz 650ms (cache miss)
+974 timing reifyNode:node_modules/@types/merge-descriptors Completed in 834ms
+975 http fetch GET 200 https://registry.yarnpkg.com/@types/json-stringify-safe/-/json-stringify-safe-5.0.0.tgz 651ms (cache miss)
+976 timing reifyNode:node_modules/@types/json-stringify-safe Completed in 838ms
+977 http fetch GET 200 https://registry.yarnpkg.com/@types/mocha/-/mocha-9.1.0.tgz 667ms (cache miss)
+978 timing reifyNode:node_modules/@types/mocha Completed in 841ms
+979 http fetch GET 200 https://registry.yarnpkg.com/@types/jsbn/-/jsbn-1.2.30.tgz 666ms (cache miss)
+980 timing reifyNode:node_modules/@types/jsbn Completed in 854ms
+981 http fetch GET 200 https://registry.yarnpkg.com/@types/jsesc/-/jsesc-3.0.1.tgz 671ms (cache miss)
+982 timing reifyNode:node_modules/@types/jsesc Completed in 860ms
+983 timing reifyNode:node_modules/@types/semver Completed in 866ms
+984 http fetch GET 200 https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.9.tgz 695ms (cache miss)
+985 timing reifyNode:node_modules/@types/json-schema Completed in 882ms
+986 http fetch GET 200 https://registry.yarnpkg.com/@types/istanbul-lib-source-maps/-/istanbul-lib-source-maps-4.0.1.tgz 713ms (cache miss)
+987 timing reifyNode:node_modules/@types/istanbul-lib-source-maps Completed in 902ms
+988 http fetch GET 200 https://registry.yarnpkg.com/@types/js-yaml/-/js-yaml-4.0.5.tgz 723ms (cache miss)
+989 timing reifyNode:node_modules/@types/js-yaml Completed in 912ms
+990 timing reifyNode:node_modules/source-map Completed in 920ms
+991 http fetch GET 200 https://registry.yarnpkg.com/@types/istanbul-reports/-/istanbul-reports-3.0.1.tgz 736ms (cache miss)
+992 timing reifyNode:node_modules/@types/istanbul-reports Completed in 926ms
+993 http fetch GET 200 https://registry.yarnpkg.com/@types/istanbul-lib-report/-/istanbul-lib-report-3.0.0.tgz 738ms (cache miss)
+994 timing reifyNode:node_modules/@types/istanbul-lib-report Completed in 928ms
+995 http fetch GET 200 https://registry.yarnpkg.com/@types/istanbul-lib-instrument/-/istanbul-lib-instrument-1.7.4.tgz 739ms (cache miss)
+996 timing reifyNode:node_modules/@types/istanbul-lib-instrument Completed in 934ms
+997 http fetch GET 200 https://registry.yarnpkg.com/@types/istanbul-lib-coverage/-/istanbul-lib-coverage-2.0.4.tgz 774ms (cache miss)
+998 timing reifyNode:node_modules/@types/istanbul-lib-coverage Completed in 967ms
+999 http fetch GET 200 https://registry.yarnpkg.com/@types/isstream/-/isstream-0.1.0.tgz 777ms (cache miss)
+1000 timing reifyNode:node_modules/@types/isstream Completed in 970ms
+1001 http fetch GET 200 https://registry.yarnpkg.com/@types/isexe/-/isexe-2.0.1.tgz 861ms (cache miss)
+1002 timing reifyNode:node_modules/@types/isexe Completed in 1055ms
+1003 http fetch GET 200 https://registry.yarnpkg.com/@types/isarray/-/isarray-2.0.0.tgz 865ms (cache miss)
+1004 timing reifyNode:node_modules/@types/isarray Completed in 1060ms
+1005 http fetch GET 200 https://registry.yarnpkg.com/@types/is-windows/-/is-windows-1.0.0.tgz 872ms (cache miss)
+1006 timing reifyNode:node_modules/@types/is-windows Completed in 1067ms
+1007 http fetch GET 200 https://registry.yarnpkg.com/@types/is-typedarray/-/is-typedarray-1.0.0.tgz 875ms (cache miss)
+1008 timing reifyNode:node_modules/@types/is-typedarray Completed in 1070ms
+1009 http fetch GET 200 https://registry.yarnpkg.com/@types/is-regex/-/is-regex-1.0.0.tgz 879ms (cache miss)
+1010 timing reifyNode:node_modules/@types/is-regex Completed in 1076ms
+1011 http fetch GET 200 https://registry.yarnpkg.com/@types/is-glob/-/is-glob-4.0.2.tgz 897ms (cache miss)
+1012 timing reifyNode:node_modules/@types/is-glob Completed in 1094ms
+1013 http fetch GET 200 https://registry.yarnpkg.com/@types/is-date-object/-/is-date-object-1.0.2.tgz 927ms (cache miss)
+1014 timing reifyNode:node_modules/@types/is-date-object Completed in 1126ms
+1015 http fetch GET 200 https://registry.yarnpkg.com/@types/node/-/node-17.0.21.tgz 962ms (cache miss)
+1016 timing reifyNode:node_modules/@types/node Completed in 1134ms
+1017 http fetch GET 200 https://registry.yarnpkg.com/@types/is-arguments/-/is-arguments-1.0.0.tgz 963ms (cache miss)
+1018 timing reifyNode:node_modules/@types/is-arguments Completed in 1161ms
+1019 http fetch GET 200 https://registry.yarnpkg.com/@types/yargs-unparser/-/yargs-unparser-2.0.1.tgz 1041ms (cache miss)
+1020 timing reifyNode:node_modules/@types/yargs-unparser Completed in 1175ms
+1021 http fetch GET 200 https://registry.yarnpkg.com/@types/type-detect/-/type-detect-4.0.1.tgz 1030ms (cache miss)
+1022 timing reifyNode:node_modules/@types/type-detect Completed in 1176ms
+1023 http fetch GET 200 https://registry.yarnpkg.com/@types/workerpool/-/workerpool-6.1.0.tgz 1058ms (cache miss)
+1024 timing reifyNode:node_modules/@types/workerpool Completed in 1196ms
+1025 http fetch GET 200 https://registry.yarnpkg.com/@types/tough-cookie/-/tough-cookie-4.0.1.tgz 1053ms (cache miss)
+1026 timing reifyNode:node_modules/@types/tough-cookie Completed in 1200ms
+1027 http fetch GET 200 https://registry.yarnpkg.com/@types/inherits/-/inherits-0.0.30.tgz 996ms (cache miss)
+1028 timing reifyNode:node_modules/@types/inherits Completed in 1195ms
+1029 http fetch GET 200 https://registry.yarnpkg.com/@types/verror/-/verror-1.10.5.tgz 1119ms (cache miss)
+1030 timing reifyNode:node_modules/@types/verror Completed in 1258ms
+1031 http fetch GET 200 https://registry.yarnpkg.com/@types/has/-/has-1.0.0.tgz 1053ms (cache miss)
+1032 timing reifyNode:node_modules/@types/has Completed in 1254ms
+1033 http fetch GET 200 https://registry.yarnpkg.com/@types/he/-/he-1.1.2.tgz 1058ms (cache miss)
+1034 timing reifyNode:node_modules/@types/he Completed in 1259ms
+1035 http fetch GET 200 https://registry.yarnpkg.com/@types/type-is/-/type-is-1.6.3.tgz 1127ms (cache miss)
+1036 timing reifyNode:node_modules/@types/type-is Completed in 1272ms
+1037 http fetch GET 200 https://registry.yarnpkg.com/@types/utils-merge/-/utils-merge-0.0.28.tgz 1131ms (cache miss)
+1038 timing reifyNode:node_modules/@types/utils-merge Completed in 1273ms
+1039 http fetch GET 200 https://registry.yarnpkg.com/@types/graceful-fs/-/graceful-fs-4.1.4.tgz 1070ms (cache miss)
+1040 timing reifyNode:node_modules/@types/graceful-fs Completed in 1272ms
+1041 http fetch GET 200 https://registry.yarnpkg.com/@types/glob-parent/-/glob-parent-5.1.1.tgz 1078ms (cache miss)
+1042 timing reifyNode:node_modules/@types/glob-parent Completed in 1279ms
+1043 http fetch GET 200 https://registry.yarnpkg.com/@types/sshpk/-/sshpk-1.17.0.tgz 1142ms (cache miss)
+1044 timing reifyNode:node_modules/@types/sshpk Completed in 1294ms
+1045 http fetch GET 200 https://registry.yarnpkg.com/@types/glob/-/glob-7.2.0.tgz 1111ms (cache miss)
+1046 timing reifyNode:node_modules/@types/glob Completed in 1313ms
+1047 http fetch GET 200 https://registry.yarnpkg.com/@types/getpass/-/getpass-0.1.1.tgz 1128ms (cache miss)
+1048 timing reifyNode:node_modules/@types/getpass Completed in 1332ms
+1049 http fetch GET 200 https://registry.yarnpkg.com/@types/function-bind/-/function-bind-1.1.6.tgz 1134ms (cache miss)
+1050 timing reifyNode:node_modules/@types/function-bind Completed in 1339ms
+1051 http fetch GET 200 https://registry.yarnpkg.com/@types/fresh/-/fresh-0.5.0.tgz 1138ms (cache miss)
+1052 timing reifyNode:node_modules/@types/fresh Completed in 1342ms
+1053 http fetch GET 200 https://registry.yarnpkg.com/@types/get-func-name/-/get-func-name-2.0.0.tgz 1171ms (cache miss)
+1054 timing reifyNode:node_modules/@types/get-func-name Completed in 1379ms
+1055 http fetch GET 200 https://registry.yarnpkg.com/@types/forwarded/-/forwarded-0.1.0.tgz 1177ms (cache miss)
+1056 timing reifyNode:node_modules/@types/forwarded Completed in 1382ms
+1057 http fetch GET 200 https://registry.yarnpkg.com/@types/flat/-/flat-5.0.2.tgz 1206ms (cache miss)
+1058 timing reifyNode:node_modules/@types/flat Completed in 1421ms
+1059 http fetch GET 200 https://registry.yarnpkg.com/@types/forever-agent/-/forever-agent-0.6.1.tgz 1223ms (cache miss)
+1060 timing reifyNode:node_modules/@types/forever-agent Completed in 1430ms
+1061 http fetch GET 200 https://registry.yarnpkg.com/@types/finalhandler/-/finalhandler-1.1.1.tgz 1331ms (cache miss)
+1062 timing reifyNode:node_modules/@types/finalhandler Completed in 1540ms
+1063 http fetch GET 200 https://registry.yarnpkg.com/@types/extsprintf/-/extsprintf-1.4.2.tgz 1358ms (cache miss)
+1064 timing reifyNode:node_modules/@types/extsprintf Completed in 1568ms
+1065 http fetch GET 200 https://registry.yarnpkg.com/@types/formidable/-/formidable-2.0.4.tgz 1369ms (cache miss)
+1066 timing reifyNode:node_modules/@types/formidable Completed in 1576ms
+1067 http fetch GET 200 https://registry.yarnpkg.com/@types/extend/-/extend-3.0.1.tgz 1375ms (cache miss)
+1068 timing reifyNode:node_modules/@types/extend Completed in 1586ms
+1069 http fetch GET 200 https://registry.yarnpkg.com/@types/express/-/express-4.17.13.tgz 1377ms (cache miss)
+1070 timing reifyNode:node_modules/@types/express Completed in 1589ms
+1071 http fetch GET 200 https://registry.yarnpkg.com/@types/esprima/-/esprima-4.0.3.tgz 1406ms (cache miss)
+1072 timing reifyNode:node_modules/@types/esprima Completed in 1619ms
+1073 http fetch GET 200 https://registry.yarnpkg.com/@types/escape-html/-/escape-html-1.0.1.tgz 1437ms (cache miss)
+1074 timing reifyNode:node_modules/@types/escape-html Completed in 1650ms
+1075 http fetch GET 200 https://registry.yarnpkg.com/@types/etag/-/etag-1.8.1.tgz 1456ms (cache miss)
+1076 timing reifyNode:node_modules/@types/etag Completed in 1668ms
+1077 http fetch GET 200 https://registry.yarnpkg.com/@types/ee-first/-/ee-first-1.1.0.tgz 1467ms (cache miss)
+1078 timing reifyNode:node_modules/@types/ee-first Completed in 1682ms
+1079 http fetch GET 200 https://registry.yarnpkg.com/@types/parseurl/-/parseurl-1.3.1.tgz 1523ms (cache miss)
+1080 timing reifyNode:node_modules/@types/parseurl Completed in 1693ms
+1081 http fetch GET 200 https://registry.yarnpkg.com/@types/encodeurl/-/encodeurl-1.0.0.tgz 1474ms (cache miss)
+1082 timing reifyNode:node_modules/@types/encodeurl Completed in 1687ms
+1083 http fetch GET 200 https://registry.yarnpkg.com/@types/depd/-/depd-1.1.32.tgz 1475ms (cache miss)
+1084 timing reifyNode:node_modules/@types/depd Completed in 1691ms
+1085 http fetch GET 200 https://registry.yarnpkg.com/@types/destroy/-/destroy-1.0.0.tgz 1477ms (cache miss)
+1086 timing reifyNode:node_modules/@types/destroy Completed in 1692ms
+1087 http fetch GET 200 https://registry.yarnpkg.com/@types/deep-equal/-/deep-equal-1.0.1.tgz 1479ms (cache miss)
+1088 timing reifyNode:node_modules/@types/deep-equal Completed in 1698ms
+1089 http fetch GET 200 https://registry.yarnpkg.com/@types/methods/-/methods-1.1.1.tgz 1524ms (cache miss)
+1090 timing reifyNode:node_modules/@types/methods Completed in 1707ms
+1091 http fetch GET 200 https://registry.yarnpkg.com/@types/cookiejar/-/cookiejar-2.1.2.tgz 1490ms (cache miss)
+1092 timing reifyNode:node_modules/@types/cookiejar Completed in 1712ms
+1093 http fetch GET 200 https://registry.yarnpkg.com/@types/cookie-signature/-/cookie-signature-1.0.4.tgz 1491ms (cache miss)
+1094 timing reifyNode:node_modules/@types/cookie-signature Completed in 1715ms
+1095 http fetch GET 200 https://registry.yarnpkg.com/@types/define-properties/-/define-properties-1.1.3.tgz 1500ms (cache miss)
+1096 timing reifyNode:node_modules/@types/define-properties Completed in 1718ms
+1097 http fetch GET 200 https://registry.yarnpkg.com/@types/media-typer/-/media-typer-1.1.1.tgz 1540ms (cache miss)
+1098 timing reifyNode:node_modules/@types/media-typer Completed in 1725ms
+1099 http fetch GET 200 https://registry.yarnpkg.com/@types/lodash.flattendeep/-/lodash.flattendeep-4.4.6.tgz 1542ms (cache miss)
+1100 timing reifyNode:node_modules/@types/lodash.flattendeep Completed in 1727ms
+1101 http fetch GET 200 https://registry.yarnpkg.com/@types/diff/-/diff-5.0.2.tgz 1508ms (cache miss)
+1102 timing reifyNode:node_modules/@types/diff Completed in 1723ms
+1103 http fetch GET 200 https://registry.yarnpkg.com/@types/convert-source-map/-/convert-source-map-1.5.2.tgz 1500ms (cache miss)
+1104 timing reifyNode:node_modules/@types/convert-source-map Completed in 1723ms
+1105 http fetch GET 200 https://registry.yarnpkg.com/@types/cookie/-/cookie-0.4.1.tgz 1504ms (cache miss)
+1106 timing reifyNode:node_modules/@types/cookie Completed in 1727ms
+1107 http fetch GET 200 https://registry.yarnpkg.com/@types/content-type/-/content-type-1.1.5.tgz 1504ms (cache miss)
+1108 timing reifyNode:node_modules/@types/content-type Completed in 1728ms
+1109 http fetch GET 200 https://registry.yarnpkg.com/@types/content-disposition/-/content-disposition-0.5.4.tgz 1507ms (cache miss)
+1110 timing reifyNode:node_modules/@types/content-disposition Completed in 1731ms
+1111 http fetch GET 200 https://registry.yarnpkg.com/@types/concat-map/-/concat-map-0.0.1.tgz 1508ms (cache miss)
+1112 timing reifyNode:node_modules/@types/concat-map Completed in 1733ms
+1113 http fetch GET 200 https://registry.yarnpkg.com/@types/combined-stream/-/combined-stream-1.0.3.tgz 1502ms (cache miss)
+1114 timing reifyNode:node_modules/@types/combined-stream Completed in 1734ms
+1115 http fetch GET 200 https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz 1506ms (cache miss)
+1116 timing reifyNode:node_modules/@types/color-name Completed in 1738ms
+1117 http fetch GET 200 https://registry.yarnpkg.com/@types/component-emitter/-/component-emitter-1.2.11.tgz 1510ms (cache miss)
+1118 timing reifyNode:node_modules/@types/component-emitter Completed in 1741ms
+1119 http fetch GET 200 https://registry.yarnpkg.com/@types/color-convert/-/color-convert-2.0.0.tgz 1513ms (cache miss)
+1120 timing reifyNode:node_modules/@types/color-convert Completed in 1746ms
+1121 http fetch GET 200 https://registry.yarnpkg.com/@types/chai/-/chai-4.3.0.tgz 1519ms (cache miss)
+1122 timing reifyNode:node_modules/@types/chai Completed in 1753ms
+1123 http fetch GET 200 https://registry.yarnpkg.com/@types/istanbul-lib-hook/-/istanbul-lib-hook-2.0.1.tgz 1570ms (cache miss)
+1124 timing reifyNode:node_modules/@types/istanbul-lib-hook Completed in 1761ms
+1125 http fetch GET 200 https://registry.yarnpkg.com/@types/caseless/-/caseless-0.12.2.tgz 1524ms (cache miss)
+1126 timing reifyNode:node_modules/@types/caseless Completed in 1759ms
+1127 http fetch GET 200 https://registry.yarnpkg.com/@types/caniuse-lite/-/caniuse-lite-1.0.1.tgz 1524ms (cache miss)
+1128 timing reifyNode:node_modules/@types/caniuse-lite Completed in 1759ms
+1129 http fetch GET 200 https://registry.yarnpkg.com/@types/braces/-/braces-3.0.1.tgz 1526ms (cache miss)
+1130 timing reifyNode:node_modules/@types/braces Completed in 1764ms
+1131 http fetch GET 200 https://registry.yarnpkg.com/@types/body-parser/-/body-parser-1.19.2.tgz 1526ms (cache miss)
+1132 timing reifyNode:node_modules/@types/body-parser Completed in 1765ms
+1133 http fetch GET 200 https://registry.yarnpkg.com/@types/bytes/-/bytes-3.1.1.tgz 1533ms (cache miss)
+1134 timing reifyNode:node_modules/@types/bytes Completed in 1770ms
+1135 http fetch GET 200 https://registry.yarnpkg.com/@types/balanced-match/-/balanced-match-1.0.2.tgz 1536ms (cache miss)
+1136 timing reifyNode:node_modules/@types/balanced-match Completed in 1775ms
+1137 http fetch GET 200 https://registry.yarnpkg.com/@types/assert-plus/-/assert-plus-1.0.4.tgz 1638ms (cache miss)
+1138 timing reifyNode:node_modules/@types/assert-plus Completed in 1878ms
+1139 http fetch GET 200 https://registry.yarnpkg.com/@types/is-number/-/is-number-7.0.2.tgz 1690ms (cache miss)
+1140 timing reifyNode:node_modules/@types/is-number Completed in 1887ms
+1141 http fetch GET 200 https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.179.tgz 1746ms (cache miss)
+1142 timing reifyNode:node_modules/@types/lodash Completed in 1933ms
+1143 http fetch GET 200 https://registry.yarnpkg.com/@types/http-errors/-/http-errors-1.8.2.tgz 1796ms (cache miss)
+1144 timing reifyNode:node_modules/@types/http-errors Completed in 1995ms
+1145 http fetch GET 200 https://registry.yarnpkg.com/@types/imurmurhash/-/imurmurhash-0.1.1.tgz 1827ms (cache miss)
+1146 timing reifyNode:node_modules/@types/imurmurhash Completed in 2027ms
+1147 http fetch GET 200 https://registry.yarnpkg.com/@types/html-escaper/-/html-escaper-3.0.0.tgz 1855ms (cache miss)
+1148 timing reifyNode:node_modules/@types/html-escaper Completed in 2056ms
+1149 http fetch GET 200 https://registry.yarnpkg.com/@types/mime/-/mime-1.3.2.tgz 1857ms (cache miss)
+1150 timing reifyNode:node_modules/@types/serve-static/node_modules/@types/mime Completed in 2114ms
+1151 http fetch GET 200 https://registry.yarnpkg.com/@types/mime/-/mime-1.3.2.tgz 1861ms (cache miss)
+1152 timing reifyNode:node_modules/@types/send/node_modules/@types/mime Completed in 2115ms
+1153 http fetch GET 200 https://registry.yarnpkg.com/@types/find-cache-dir/-/find-cache-dir-3.2.1.tgz 1931ms (cache miss)
+1154 timing reifyNode:node_modules/@types/find-cache-dir Completed in 2140ms
+1155 http fetch GET 200 https://registry.yarnpkg.com/@types/fill-range/-/fill-range-7.0.0.tgz 1948ms (cache miss)
+1156 timing reifyNode:node_modules/@types/fill-range Completed in 2158ms
+1157 http fetch GET 200 https://registry.yarnpkg.com/@types/debug/-/debug-4.1.7.tgz 2112ms (cache miss)
+1158 timing reifyNode:node_modules/@types/debug Completed in 2333ms
+1159 http fetch GET 200 https://registry.yarnpkg.com/@types/cross-spawn/-/cross-spawn-6.0.2.tgz 2118ms (cache miss)
+1160 timing reifyNode:node_modules/@types/cross-spawn Completed in 2339ms
+1161 http fetch GET 200 https://registry.yarnpkg.com/@types/dashdash/-/dashdash-1.14.1.tgz 2157ms (cache miss)
+1162 timing reifyNode:node_modules/@types/dashdash Completed in 2378ms
+1163 http fetch GET 200 https://registry.yarnpkg.com/@types/commondir/-/commondir-1.0.0.tgz 2213ms (cache miss)
+1164 timing reifyNode:node_modules/@types/commondir Completed in 2444ms
+1165 http fetch GET 200 https://registry.yarnpkg.com/@types/check-error/-/check-error-1.0.0.tgz 2273ms (cache miss)
+1166 timing reifyNode:node_modules/@types/check-error Completed in 2508ms
+1167 http fetch GET 200 https://registry.yarnpkg.com/@types/brace-expansion/-/brace-expansion-1.1.0.tgz 2307ms (cache miss)
+1168 timing reifyNode:node_modules/@types/brace-expansion Completed in 2544ms
+1169 http fetch GET 200 https://registry.yarnpkg.com/@types/aws4/-/aws4-1.5.2.tgz 2309ms (cache miss)
+1170 timing reifyNode:node_modules/@types/aws4 Completed in 2548ms
+1171 http fetch GET 200 https://registry.yarnpkg.com/@types/asn1/-/asn1-0.2.0.tgz 2384ms (cache miss)
+1172 timing reifyNode:node_modules/@types/asn1 Completed in 2624ms
+1173 http fetch GET 200 https://registry.yarnpkg.com/@types/argparse/-/argparse-1.0.38.tgz 2430ms (cache miss)
+1174 timing reifyNode:node_modules/@types/argparse Completed in 2672ms
+1175 http fetch GET 200 https://registry.yarnpkg.com/@types/archy/-/archy-0.0.32.tgz 2431ms (cache miss)
+1176 timing reifyNode:node_modules/@types/archy Completed in 2672ms
+1177 http fetch GET 200 https://registry.yarnpkg.com/@types/accepts/-/accepts-1.3.5.tgz 2643ms (cache miss)
+1178 timing reifyNode:node_modules/@types/accepts Completed in 2885ms
+1179 timing reify:unpack Completed in 2900ms
+1180 timing reify:unretire Completed in 0ms
+1181 timing build:queue Completed in 4ms
+1182 timing build:deps Completed in 5ms
+1183 timing build Completed in 5ms
+1184 timing reify:build Completed in 6ms
+1185 timing reify:trash Completed in 0ms
+1186 timing reify:save Completed in 103ms
+1187 timing reify Completed in 8780ms
+1188 silly ADD node_modules/mime-db
+1189 silly ADD node_modules/delayed-stream
+1190 silly ADD node_modules/mime-types
+1191 silly ADD node_modules/combined-stream
+1192 silly ADD node_modules/asynckit
+1193 silly ADD node_modules/form-data
+1194 silly ADD node_modules/safe-buffer
+1195 silly ADD node_modules/source-map
+1196 silly ADD node_modules/@types/babel-types
+1197 silly ADD node_modules/@types/express-serve-static-core
+1198 silly ADD node_modules/@types/estree
+1199 silly ADD node_modules/@types/connect
+1200 silly ADD node_modules/@types/yargs-unparser
+1201 silly ADD node_modules/@types/yargs-parser
+1202 silly ADD node_modules/@types/yargs
+1203 silly ADD node_modules/@types/write-file-atomic
+1204 silly ADD node_modules/@types/wrap-ansi
+1205 silly ADD node_modules/@types/workerpool
+1206 silly ADD node_modules/@types/wordwrap
+1207 silly ADD node_modules/@types/which
+1208 silly ADD node_modules/@types/verror
+1209 silly ADD node_modules/@types/vary
+1210 silly ADD node_modules/@types/uuid
+1211 silly ADD node_modules/@types/utils-merge
+1212 silly ADD node_modules/@types/util-deprecate
+1213 silly ADD node_modules/@types/uglify-js
+1214 silly ADD node_modules/@types/type-is
+1215 silly ADD node_modules/@types/type-detect
+1216 silly ADD node_modules/@types/tough-cookie
+1217 silly ADD node_modules/@types/to-regex-range
+1218 silly ADD node_modules/@types/supports-color
+1219 silly ADD node_modules/@types/supertest
+1220 silly ADD node_modules/@types/superagent
+1221 silly ADD node_modules/@types/statuses
+1222 silly ADD node_modules/@types/sshpk
+1223 silly ADD node_modules/@types/sprintf-js
+1224 silly ADD node_modules/@types/sprintf
+1225 silly ADD node_modules/@types/signal-exit
+1226 silly ADD node_modules/@types/shebang-command
+1227 silly ADD node_modules/@types/serve-static
+1228 silly ADD node_modules/@types/serve-static/node_modules/@types/mime
+1229 silly ADD node_modules/@types/serialize-javascript
+1230 silly ADD node_modules/@types/send
+1231 silly ADD node_modules/@types/send/node_modules/@types/mime
+1232 silly ADD node_modules/@types/semver
+1233 silly ADD node_modules/@types/safer-buffer
+1234 silly ADD node_modules/@types/rimraf
+1235 silly ADD node_modules/@types/require-directory
+1236 silly ADD node_modules/@types/request
+1237 silly ADD node_modules/@types/readable-stream
+1238 silly ADD node_modules/@types/range-parser
+1239 silly ADD node_modules/@types/randombytes
+1240 silly ADD node_modules/@types/qs
+1241 silly ADD node_modules/@types/punycode
+1242 silly ADD node_modules/@types/psl
+1243 silly ADD node_modules/@types/proxy-addr
+1244 silly ADD node_modules/@types/picomatch
+1245 silly ADD node_modules/@types/pathval
+1246 silly ADD node_modules/@types/path-is-absolute
+1247 silly ADD node_modules/@types/parseurl
+1248 silly ADD node_modules/@types/once
+1249 silly ADD node_modules/@types/on-finished
+1250 silly ADD node_modules/@types/object-keys
+1251 silly ADD node_modules/@types/normalize-path
+1252 silly ADD node_modules/@types/node
+1253 silly ADD node_modules/@types/negotiator
+1254 silly ADD node_modules/@types/ms
+1255 silly ADD node_modules/@types/mocha
+1256 silly ADD node_modules/@types/mkdirp
+1257 silly ADD node_modules/@types/minimist
+1258 silly ADD node_modules/@types/minimatch
+1259 silly ADD node_modules/@types/mime-types
+1260 silly ADD node_modules/@types/mime-db
+1261 silly ADD node_modules/@types/mime
+1262 silly ADD node_modules/@types/methods
+1263 silly ADD node_modules/@types/merge-descriptors
+1264 silly ADD node_modules/@types/media-typer
+1265 silly ADD node_modules/@types/lodash.flattendeep
+1266 silly ADD node_modules/@types/lodash
+1267 silly ADD node_modules/@types/json-stringify-safe
+1268 silly ADD node_modules/@types/json-schema
+1269 silly ADD node_modules/@types/jsesc
+1270 silly ADD node_modules/@types/jsbn
+1271 silly ADD node_modules/@types/js-yaml
+1272 silly ADD node_modules/@types/istanbul-reports
+1273 silly ADD node_modules/@types/istanbul-lib-source-maps
+1274 silly ADD node_modules/@types/istanbul-lib-report
+1275 silly ADD node_modules/@types/istanbul-lib-instrument
+1276 silly ADD node_modules/@types/istanbul-lib-hook
+1277 silly ADD node_modules/@types/istanbul-lib-coverage
+1278 silly ADD node_modules/@types/isstream
+1279 silly ADD node_modules/@types/isexe
+1280 silly ADD node_modules/@types/isarray
+1281 silly ADD node_modules/@types/is-windows
+1282 silly ADD node_modules/@types/is-typedarray
+1283 silly ADD node_modules/@types/is-regex
+1284 silly ADD node_modules/@types/is-number
+1285 silly ADD node_modules/@types/is-glob
+1286 silly ADD node_modules/@types/is-date-object
+1287 silly ADD node_modules/@types/is-arguments
+1288 silly ADD node_modules/@types/inherits
+1289 silly ADD node_modules/@types/imurmurhash
+1290 silly ADD node_modules/@types/http-errors
+1291 silly ADD node_modules/@types/html-escaper
+1292 silly ADD node_modules/@types/he
+1293 silly ADD node_modules/@types/has
+1294 silly ADD node_modules/@types/graceful-fs
+1295 silly ADD node_modules/@types/glob-parent
+1296 silly ADD node_modules/@types/glob
+1297 silly ADD node_modules/@types/getpass
+1298 silly ADD node_modules/@types/get-func-name
+1299 silly ADD node_modules/@types/function-bind
+1300 silly ADD node_modules/@types/fresh
+1301 silly ADD node_modules/@types/forwarded
+1302 silly ADD node_modules/@types/formidable
+1303 silly ADD node_modules/@types/forever-agent
+1304 silly ADD node_modules/@types/flat
+1305 silly ADD node_modules/@types/find-cache-dir
+1306 silly ADD node_modules/@types/finalhandler
+1307 silly ADD node_modules/@types/fill-range
+1308 silly ADD node_modules/@types/extsprintf
+1309 silly ADD node_modules/@types/extend
+1310 silly ADD node_modules/@types/express
+1311 silly ADD node_modules/@types/etag
+1312 silly ADD node_modules/@types/esprima
+1313 silly ADD node_modules/@types/escape-html
+1314 silly ADD node_modules/@types/encodeurl
+1315 silly ADD node_modules/@types/ee-first
+1316 silly ADD node_modules/@types/diff
+1317 silly ADD node_modules/@types/destroy
+1318 silly ADD node_modules/@types/depd
+1319 silly ADD node_modules/@types/define-properties
+1320 silly ADD node_modules/@types/deep-equal
+1321 silly ADD node_modules/@types/debug
+1322 silly ADD node_modules/@types/dashdash
+1323 silly ADD node_modules/@types/cross-spawn
+1324 silly ADD node_modules/@types/cookiejar
+1325 silly ADD node_modules/@types/cookie-signature
+1326 silly ADD node_modules/@types/cookie
+1327 silly ADD node_modules/@types/convert-source-map
+1328 silly ADD node_modules/@types/content-type
+1329 silly ADD node_modules/@types/content-disposition
+1330 silly ADD node_modules/@types/concat-map
+1331 silly ADD node_modules/@types/component-emitter
+1332 silly ADD node_modules/@types/commondir
+1333 silly ADD node_modules/@types/combined-stream
+1334 silly ADD node_modules/@types/color-name
+1335 silly ADD node_modules/@types/color-convert
+1336 silly ADD node_modules/@types/check-error
+1337 silly ADD node_modules/@types/chai
+1338 silly ADD node_modules/@types/caseless
+1339 silly ADD node_modules/@types/caniuse-lite
+1340 silly ADD node_modules/@types/bytes
+1341 silly ADD node_modules/@types/braces
+1342 silly ADD node_modules/@types/brace-expansion
+1343 silly ADD node_modules/@types/body-parser
+1344 silly ADD node_modules/@types/balanced-match
+1345 silly ADD node_modules/@types/aws4
+1346 silly ADD node_modules/@types/assert-plus
+1347 silly ADD node_modules/@types/asn1
+1348 silly ADD node_modules/@types/argparse
+1349 silly ADD node_modules/@types/archy
+1350 silly ADD node_modules/@types/accepts
+1351 timing command:install Completed in 8792ms
+1352 verbose exit 0
+1353 timing npm Completed in 9042ms
+1354 info ok
